@@ -51,15 +51,18 @@ def main():
         adj_code = name.split(".")[0]
         if adj_code in exist_code:
             continue
-        if not adj_code.startswith("6") and not adj_code.endswith("9"):
-            continue
+        if adj_code.startswith("6"):
+            if not adj_code.endswith( "9" ):
+                continue
+        # print(exist_code)
+        print(adj_code)
         datestart = datetime.datetime.strptime( start_date, '%Y-%m-%d' )
         dateend = datetime.datetime.strptime( end_date, '%Y-%m-%d' )
         df_concat = pd.DataFrame()
         while datestart <= dateend:
             trading_date = datestart.strftime( '%Y-%m-%d' )
-            print("-------------------------")
-            print(trading_date)
+            # print("-------------------------")
+            # print(trading_date)
             df = get_tick_data_df(adj_code, trading_date)
             if "NoneType" not in str(type(df)):
                 df = df.rename(columns={"vol": "volume"})
@@ -79,7 +82,7 @@ def main():
                 # df.fillna({'change': 0}).to_csv(csv_file_path, index=False, mode='a')
                 df_concat = pd.concat( [df_concat, df] )
             datestart += datetime.timedelta(days=1)
-        df_concat.to_csv( csv_file_path, index=False)
+        # df_concat.to_csv( csv_file_path, index=False)
 
 
 if __name__ == '__main__':

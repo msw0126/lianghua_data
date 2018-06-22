@@ -51,8 +51,10 @@ def main():
         adj_code = name.split(".")[0]
         if adj_code in exist_code:
             continue
-        if not adj_code.startswith("6") and not adj_code.endswith("2"):
-            continue
+        if adj_code.startswith("6"):
+            if not adj_code.endswith("2"):
+                continue
+        print(adj_code)
         datestart = datetime.datetime.strptime( start_date, '%Y-%m-%d' )
         dateend = datetime.datetime.strptime( end_date, '%Y-%m-%d' )
         df_concat = pd.DataFrame()
