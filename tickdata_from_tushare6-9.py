@@ -51,7 +51,7 @@ def main():
         adj_code = name.split(".")[0]
         if adj_code in exist_code:
             continue
-        if not name.startswith("6") and not name.endswith("9"):
+        if not adj_code.startswith("6") and not adj_code.endswith("9"):
             continue
         datestart = datetime.datetime.strptime( start_date, '%Y-%m-%d' )
         dateend = datetime.datetime.strptime( end_date, '%Y-%m-%d' )
