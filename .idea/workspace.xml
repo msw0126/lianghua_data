@@ -2,16 +2,33 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="65eda8b5-38ba-4a89-8f4a-dba4910cd57d" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code_notin_hs300/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code_notin_hs300/file_size.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code_notin_hs300/notin_hs300_tickdata_tushare0-0.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code_notin_hs300/notin_hs300_tickdata_tushare0-1.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code_notin_hs300/notin_hs300_tickdata_tushare0-2.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code_notin_hs300/notin_hs300_tickdata_tushare0-3.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code_notin_hs300/notin_hs300_tickdata_tushare0-4.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code_notin_hs300/notin_hs300_tickdata_tushare0-5.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code_notin_hs300/notin_hs300_tickdata_tushare0-6.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code_notin_hs300/notin_hs300_tickdata_tushare0-7.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code_notin_hs300/notin_hs300_tickdata_tushare0-8.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code_notin_hs300/notin_hs300_tickdata_tushare0-9.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code_notin_hs300/notin_hs300_tickdata_tushare3.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code_notin_hs300/notin_hs300_tickdata_tushare6-0.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code_notin_hs300/notin_hs300_tickdata_tushare6-1.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code_notin_hs300/notin_hs300_tickdata_tushare6-2.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code_notin_hs300/notin_hs300_tickdata_tushare6-3.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code_notin_hs300/notin_hs300_tickdata_tushare6-4.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code_notin_hs300/notin_hs300_tickdata_tushare6-5.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code_notin_hs300/notin_hs300_tickdata_tushare6-6.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code_notin_hs300/notin_hs300_tickdata_tushare6-7.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code_notin_hs300/notin_hs300_tickdata_tushare6-8.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code_notin_hs300/notin_hs300_tickdata_tushare6-9.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/process_tushare.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tickdata_from_tushare6-0.py" afterPath="$PROJECT_DIR$/tickdata_from_tushare6-0.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tickdata_from_tushare6-1.py" afterPath="$PROJECT_DIR$/tickdata_from_tushare6-1.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tickdata_from_tushare6-2.py" afterPath="$PROJECT_DIR$/tickdata_from_tushare6-2.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tickdata_from_tushare6-3.py" afterPath="$PROJECT_DIR$/tickdata_from_tushare6-3.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tickdata_from_tushare6-4.py" afterPath="$PROJECT_DIR$/tickdata_from_tushare6-4.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tickdata_from_tushare6-5.py" afterPath="$PROJECT_DIR$/tickdata_from_tushare6-5.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tickdata_from_tushare6-6.py" afterPath="$PROJECT_DIR$/tickdata_from_tushare6-6.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tickdata_from_tushare6-7.py" afterPath="$PROJECT_DIR$/tickdata_from_tushare6-7.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tickdata_from_tushare6-8.py" afterPath="$PROJECT_DIR$/tickdata_from_tushare6-8.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tickdata_from_tushare6-9.py" afterPath="$PROJECT_DIR$/tickdata_from_tushare6-9.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -24,18 +41,24 @@
     <SUITE FILE_PATH="coverage/liang_hua_data$update_jqdata_combine.coverage" NAME="update_jqdata_combine Coverage Results" MODIFIED="1528962666403" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/liang_hua_data$tickdata_from_tushare6_7.coverage" NAME="tickdata_from_tushare6-7 Coverage Results" MODIFIED="1529543249184" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/liang_hua_data$real_time_price.coverage" NAME="real-time_price Coverage Results" MODIFIED="1529027031295" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/lianghua_data$notin_hs300_tickdata_tushare0_1.coverage" NAME="notin_hs300_tickdata_tushare0-1 Coverage Results" MODIFIED="1529651059648" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code_notin_hs300" />
     <SUITE FILE_PATH="coverage/liang_hua_data$tickdata_from_tushare6_1.coverage" NAME="tickdata_from_tushare6-1 Coverage Results" MODIFIED="1529543201864" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/liang_hua_data$tickdata_from_tushare3.coverage" NAME="tickdata_from_tushare3 Coverage Results" MODIFIED="1529456978849" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/lianghua_data$process_tushare.coverage" NAME="process_tushare Coverage Results" MODIFIED="1529646914961" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/lianghua_data$notin_hs300_tickdata_tushare.coverage" NAME="notin_hs300_tickdata_tushare Coverage Results" MODIFIED="1529649949201" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code_notin_hs300" />
     <SUITE FILE_PATH="coverage/liang_hua_data$tickdata_from_tushare6.coverage" NAME="tickdata_from_tushare6 Coverage Results" MODIFIED="1529542674457" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/liang_hua_data$crawler_notice.coverage" NAME="crawler_notice Coverage Results" MODIFIED="1529482077033" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CrawlerScript" />
     <SUITE FILE_PATH="coverage/liang_hua_data$tickdata_from_tushare6_4.coverage" NAME="tickdata_from_tushare6-4 Coverage Results" MODIFIED="1529543219373" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/lianghua_data$notin_hs300_tickdata_tushare3.coverage" NAME="notin_hs300_tickdata_tushare3 Coverage Results" MODIFIED="1529659678292" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code_notin_hs300" />
     <SUITE FILE_PATH="coverage/liang_hua_data$get_table.coverage" NAME="get_table Coverage Results" MODIFIED="1529457710973" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/NetEaseFinance" />
     <SUITE FILE_PATH="coverage/liang_hua_data$tickdata_from_tushare.coverage" NAME="tickdata_from_tushare Coverage Results" MODIFIED="1529415409305" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/liang_hua_data$crawler_news_from_eastmoney.coverage" NAME="crawler_news_from_eastmoney Coverage Results" MODIFIED="1529561098563" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CrawlerScript/eastmoney" />
     <SUITE FILE_PATH="coverage/liang_hua_data$jqdata_test.coverage" NAME="jqdata_test Coverage Results" MODIFIED="1529378892206" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/lianghua_data$notin_hs300_tickdata_tushare0.coverage" NAME="notin_hs300_tickdata_tushare0 Coverage Results" MODIFIED="1529650546654" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code_notin_hs300" />
     <SUITE FILE_PATH="coverage/liang_hua_data$tickdata_from_tushare6_6.coverage" NAME="tickdata_from_tushare6-6 Coverage Results" MODIFIED="1529543242510" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/liang_hua_data$update_jqdata.coverage" NAME="update_jqdata Coverage Results" MODIFIED="1528859823668" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/liang_hua_data$tickdata_from_tushare6_9.coverage" NAME="tickdata_from_tushare6-9 Coverage Results" MODIFIED="1529543269609" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/lianghua_data$file_size.coverage" NAME="file_size Coverage Results" MODIFIED="1529658892649" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code_notin_hs300" />
     <SUITE FILE_PATH="coverage/liang_hua_data$crawler_news.coverage" NAME="crawler_news Coverage Results" MODIFIED="1529568558036" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CrawlerScript" />
     <SUITE FILE_PATH="coverage/liang_hua_data$data_from_tushare.coverage" NAME="data_from_tushare Coverage Results" MODIFIED="1529393650935" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/liang_hua_data$crawler_research_report.coverage" NAME="crawler_research_report Coverage Results" MODIFIED="1529483172404" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CrawlerScript" />
@@ -43,66 +66,93 @@
     <SUITE FILE_PATH="coverage/liang_hua_data$tickdata_from_tushare6_0.coverage" NAME="tickdata_from_tushare6-0 Coverage Results" MODIFIED="1529543197120" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/liang_hua_data$tickdata_from_tushare6_8.coverage" NAME="tickdata_from_tushare6-8 Coverage Results" MODIFIED="1529543261146" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/liang_hua_data$tickdata_from_tushare6_5.coverage" NAME="tickdata_from_tushare6-5 Coverage Results" MODIFIED="1529543230030" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/lianghua_data$notin_hs300_tickdata_tushare6.coverage" NAME="notin_hs300_tickdata_tushare6 Coverage Results" MODIFIED="1529650553683" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code_notin_hs300" />
     <SUITE FILE_PATH="coverage/lianghua_data$tickdata_from_tushare6_9.coverage" NAME="tickdata_from_tushare6-9 Coverage Results" MODIFIED="1529636738299" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/liang_hua_data$123.coverage" NAME="123 Coverage Results" MODIFIED="1528858404021" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/liang_hua_data$read_file.coverage" NAME="read_file Coverage Results" MODIFIED="1529457526673" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/liang_hua_data$tickdata_from_tushare0.coverage" NAME="tickdata_from_tushare0 Coverage Results" MODIFIED="1529469664734" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/lianghua_data$notin_hs300_tickdata_tushare0_0.coverage" NAME="notin_hs300_tickdata_tushare0-0 Coverage Results" MODIFIED="1529650998181" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code_notin_hs300" />
     <SUITE FILE_PATH="coverage/liang_hua_data$tickdata_from_tushare6_2.coverage" NAME="tickdata_from_tushare6-2 Coverage Results" MODIFIED="1529543208798" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/liang_hua_data$crawler_news__1_.coverage" NAME="crawler_news (1) Coverage Results" MODIFIED="1529550057847" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CrawlerScript/eastmoney" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="tickdata_from_tushare6-7.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tickdata_from_tushare6-7.py">
+      <file leaf-file-name="notin_hs300_tickdata_tushare0-7.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/code_notin_hs300/notin_hs300_tickdata_tushare0-7.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="54" column="42" lean-forward="true" selection-start-line="54" selection-start-column="42" selection-end-line="54" selection-end-column="42" />
+            <state relative-caret-position="2200">
+              <caret line="93" column="53" lean-forward="false" selection-start-line="93" selection-start-column="53" selection-end-line="93" selection-end-column="53" />
               <folding>
-                <element signature="e#23#38#0" expanded="true" />
-                <element signature="e#1952#1963#0" expanded="false" />
-                <element signature="e#2566#2580#0" expanded="false" />
+                <element signature="e#42#57#0" expanded="true" />
+                <element signature="e#2205#2216#0" expanded="false" />
+                <element signature="e#2819#2833#0" expanded="false" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="tickdata_from_tushare6-8.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tickdata_from_tushare6-8.py">
+      <file leaf-file-name="notin_hs300_tickdata_tushare0-9.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/code_notin_hs300/notin_hs300_tickdata_tushare0-9.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="290">
-              <caret line="56" column="23" lean-forward="true" selection-start-line="56" selection-start-column="23" selection-end-line="56" selection-end-column="23" />
+            <state relative-caret-position="225">
+              <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
               <folding>
-                <element signature="e#23#38#0" expanded="true" />
-                <element signature="e#1952#1963#0" expanded="false" />
-                <element signature="e#2566#2580#0" expanded="false" />
+                <element signature="e#42#57#0" expanded="true" />
+                <element signature="e#2205#2216#0" expanded="false" />
+                <element signature="e#2819#2833#0" expanded="false" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="tickdata_from_tushare6-9.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tickdata_from_tushare6-9.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="265">
-              <caret line="54" column="44" lean-forward="true" selection-start-line="54" selection-start-column="44" selection-end-line="54" selection-end-column="44" />
-              <folding>
-                <element signature="e#23#38#0" expanded="true" />
-                <element signature="e#1986#1997#0" expanded="false" />
-                <element signature="e#2600#2614#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="tickdata_from_tushare6-0.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="tickdata_from_tushare6-0.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/tickdata_from_tushare6-0.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="55" column="23" lean-forward="true" selection-start-line="55" selection-start-column="23" selection-end-line="55" selection-end-column="23" />
+            <state relative-caret-position="2050">
+              <caret line="91" column="31" lean-forward="false" selection-start-line="91" selection-start-column="31" selection-end-line="91" selection-end-column="31" />
               <folding>
-                <element signature="e#23#38#0" expanded="true" />
-                <element signature="e#1926#1937#0" expanded="false" />
-                <element signature="e#2540#2554#0" expanded="false" />
+                <element signature="e#1932#1943#0" expanded="false" />
+                <element signature="e#2546#2560#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="notin_hs300_tickdata_tushare6-3.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/code_notin_hs300/notin_hs300_tickdata_tushare6-3.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1525">
+              <caret line="64" column="38" lean-forward="false" selection-start-line="64" selection-start-column="38" selection-end-line="64" selection-end-column="38" />
+              <folding>
+                <element signature="e#2205#2216#0" expanded="false" />
+                <element signature="e#2819#2833#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="notin_hs300_tickdata_tushare6-2.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/code_notin_hs300/notin_hs300_tickdata_tushare6-2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1650">
+              <caret line="69" column="34" lean-forward="false" selection-start-line="69" selection-start-column="34" selection-end-line="69" selection-end-column="34" />
+              <folding>
+                <element signature="e#42#57#0" expanded="true" />
+                <element signature="e#2205#2216#0" expanded="false" />
+                <element signature="e#2819#2833#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="notin_hs300_tickdata_tushare0-0.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/code_notin_hs300/notin_hs300_tickdata_tushare0-0.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="375">
+              <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+              <folding>
+                <element signature="e#2205#2216#0" expanded="false" />
+                <element signature="e#2819#2833#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -111,58 +161,42 @@
       <file leaf-file-name="tickdata_from_tushare6-1.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/tickdata_from_tushare6-1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="226">
-              <caret line="52" column="36" lean-forward="true" selection-start-line="52" selection-start-column="36" selection-end-line="52" selection-end-column="36" />
+            <state relative-caret-position="1050">
+              <caret line="46" column="25" lean-forward="false" selection-start-line="46" selection-start-column="16" selection-end-line="46" selection-end-column="27" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="tickdata_from_tushare6-2.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tickdata_from_tushare6-2.py">
+      <file leaf-file-name="file_size.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/code_notin_hs300/file_size.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="53" column="36" lean-forward="true" selection-start-line="53" selection-start-column="36" selection-end-line="53" selection-end-column="36" />
+            <state relative-caret-position="100">
+              <caret line="4" column="27" lean-forward="false" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="tickdata_from_tushare6-3.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tickdata_from_tushare6-3.py">
+      <file leaf-file-name="notin_hs300_tickdata_tushare3.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/code_notin_hs300/notin_hs300_tickdata_tushare3.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="291">
-              <caret line="54" column="42" lean-forward="true" selection-start-line="54" selection-start-column="42" selection-end-line="54" selection-end-column="42" />
-              <folding />
+            <state relative-caret-position="365">
+              <caret line="95" column="26" lean-forward="false" selection-start-line="95" selection-start-column="26" selection-end-line="95" selection-end-column="26" />
+              <folding>
+                <element signature="e#42#57#0" expanded="true" />
+                <element signature="e#2190#2201#0" expanded="false" />
+                <element signature="e#2804#2818#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="tickdata_from_tushare6-4.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tickdata_from_tushare6-4.py">
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="341">
-              <caret line="55" column="24" lean-forward="true" selection-start-line="55" selection-start-column="24" selection-end-line="55" selection-end-column="24" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="tickdata_from_tushare6-5.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tickdata_from_tushare6-5.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="366">
-              <caret line="56" column="22" lean-forward="false" selection-start-line="56" selection-start-column="22" selection-end-line="56" selection-end-column="22" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="tickdata_from_tushare6-6.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tickdata_from_tushare6-6.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="291">
-              <caret line="53" column="36" lean-forward="true" selection-start-line="53" selection-start-column="36" selection-end-line="53" selection-end-column="36" />
+            <state relative-caret-position="100">
+              <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -206,12 +240,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/data/update_jqdata_combine.py" />
-        <option value="$PROJECT_DIR$/123.py" />
-        <option value="$PROJECT_DIR$/update_jqdata.py" />
-        <option value="$PROJECT_DIR$/real-time_price.py" />
-        <option value="$PROJECT_DIR$/jqdata_test.py" />
-        <option value="$PROJECT_DIR$/data_from_tushare.py" />
         <option value="$PROJECT_DIR$/update_jqdata_combine.py" />
         <option value="$PROJECT_DIR$/tickdata_from_tushare.py" />
         <option value="$PROJECT_DIR$/tickdata_from_tushare3.py" />
@@ -233,8 +261,36 @@
         <option value="$PROJECT_DIR$/tickdata_from_tushare6-3.py" />
         <option value="$PROJECT_DIR$/tickdata_from_tushare6-2.py" />
         <option value="$PROJECT_DIR$/tickdata_from_tushare6-1.py" />
-        <option value="$PROJECT_DIR$/tickdata_from_tushare6-0.py" />
         <option value="$PROJECT_DIR$/tickdata_from_tushare6-6.py" />
+        <option value="$PROJECT_DIR$/process_tushare.py" />
+        <option value="$PROJECT_DIR$/code_notin_hs300/notin_hs300_tickdata_tushare.py" />
+        <option value="$PROJECT_DIR$/code_notin_hs300/notin_hs300_tickdata_tushare6.py" />
+        <option value="$PROJECT_DIR$/code_notin_hs300/notin_hs300_tickdata_tushare3.py" />
+        <option value="$PROJECT_DIR$/code_notin_hs300/notin_hs300_tickdata_tushare0.py" />
+        <option value="$PROJECT_DIR$/code_notin_hs300/notin_hs300_tickdata_tushare0-1.py" />
+        <option value="$PROJECT_DIR$/code_notin_hs300/notin_hs300_tickdata_tushare0-2.py" />
+        <option value="$PROJECT_DIR$/code_notin_hs300/notin_hs300_tickdata_tushare0-3.py" />
+        <option value="$PROJECT_DIR$/notin_hs300_tickdata_tushare0-4.py" />
+        <option value="$PROJECT_DIR$/code_notin_hs300/notin_hs300_tickdata_tushare0-4.py" />
+        <option value="$PROJECT_DIR$/code_notin_hs300/notin_hs300_tickdata_tushare0-5.py" />
+        <option value="$PROJECT_DIR$/code_notin_hs300/notin_hs300_tickdata_tushare0-6.py" />
+        <option value="$PROJECT_DIR$/code_notin_hs300/notin_hs300_tickdata_tushare0-7.py" />
+        <option value="$PROJECT_DIR$/code_notin_hs300/notin_hs300_tickdata_tushare0-8.py" />
+        <option value="$PROJECT_DIR$/code_notin_hs300/notin_hs300_tickdata_tushare0-9.py" />
+        <option value="$PROJECT_DIR$/code_notin_hs300/notin_hs300_tickdata_tushare6-0.py" />
+        <option value="$PROJECT_DIR$/code_notin_hs300/notin_hs300_tickdata_tushare6-1.py" />
+        <option value="$PROJECT_DIR$/code_notin_hs300/notin_hs300_tickdata_tushare6-2.py" />
+        <option value="$PROJECT_DIR$/code_notin_hs300/notin_hs300_tickdata_tushare6-3.py" />
+        <option value="$PROJECT_DIR$/code_notin_hs300/notin_hs300_tickdata_tushare6-4.py" />
+        <option value="$PROJECT_DIR$/code_notin_hs300/notin_hs300_tickdata_tushare6-5.py" />
+        <option value="$PROJECT_DIR$/code_notin_hs300/notin_hs300_tickdata_tushare6-6.py" />
+        <option value="$PROJECT_DIR$/code_notin_hs300/notin_hs300_tickdata_tushare6-7.py" />
+        <option value="$PROJECT_DIR$/code_notin_hs300/notin_hs300_tickdata_tushare6-8.py" />
+        <option value="$PROJECT_DIR$/code_notin_hs300/notin_hs300_tickdata_tushare6-9.py" />
+        <option value="$PROJECT_DIR$/tickdata_from_tushare6-0.py" />
+        <option value="$PROJECT_DIR$/code_notin_hs300/notin_hs300_tickdata_tushare0-0.py" />
+        <option value="$PROJECT_DIR$/code_notin_hs300/file_size.py" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -244,11 +300,14 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="317" />
-    <option name="y" value="65" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="739" />
+    <option name="y" value="12" />
     <option name="width" value="1367" />
     <option name="height" value="814" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -265,6 +324,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -272,16 +332,10 @@
               <item name="lianghua_data" type="b2602c69:ProjectViewProjectNode" />
               <item name="lianghua_data" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="lianghua_data" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lianghua_data" type="462c0819:PsiDirectoryNode" />
-              <item name="CrawlerScript" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -291,11 +345,12 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="F:\work\liang_hua_data\data\hs300" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\work\lianghua_data\code_notin_hs300" />
       <recent name="F:\work\liang_hua_data" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\work\liang_hua_data\data\hs300" />
       <recent name="F:\work\liang_hua_data" />
     </key>
   </component>
@@ -311,111 +366,111 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.tickdata_from_tushare6-9">
-    <configuration name="crawler_news (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.notin_hs300_tickdata_tushare3">
+    <configuration name="file_size" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CrawlerScript/eastmoney" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/code_notin_hs300" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="liang_hua_data" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="F:\work\liang_hua_data\CrawlerScript\eastmoney\crawler_news_from_eastmoney.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/code_notin_hs300/file_size.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="crawler_news" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="notin_hs300_tickdata_tushare0-0" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CrawlerScript" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/code_notin_hs300" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="liang_hua_data" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CrawlerScript/crawler_news.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/code_notin_hs300/notin_hs300_tickdata_tushare0-0.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="crawler_news_from_eastmoney" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="notin_hs300_tickdata_tushare0-1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CrawlerScript/eastmoney" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/code_notin_hs300" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="liang_hua_data" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CrawlerScript/eastmoney/crawler_news_from_eastmoney.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/code_notin_hs300/notin_hs300_tickdata_tushare0-1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="tickdata_from_tushare6-8" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="notin_hs300_tickdata_tushare3" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/code_notin_hs300" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="liang_hua_data" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tickdata_from_tushare6-8.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/code_notin_hs300/notin_hs300_tickdata_tushare3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="tickdata_from_tushare6-9" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="notin_hs300_tickdata_tushare6" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/code_notin_hs300" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="liang_hua_data" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tickdata_from_tushare6-9.py" />
+      <option name="SCRIPT_NAME" value="F:\work\lianghua_data\code_notin_hs300\notin_hs300_tickdata_tushare6-0.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.tickdata_from_tushare6-8" />
-      <item index="1" class="java.lang.String" itemvalue="Python.tickdata_from_tushare6-9" />
-      <item index="2" class="java.lang.String" itemvalue="Python.crawler_news" />
-      <item index="3" class="java.lang.String" itemvalue="Python.crawler_news (1)" />
-      <item index="4" class="java.lang.String" itemvalue="Python.crawler_news_from_eastmoney" />
+      <item index="0" class="java.lang.String" itemvalue="Python.notin_hs300_tickdata_tushare3" />
+      <item index="1" class="java.lang.String" itemvalue="Python.notin_hs300_tickdata_tushare6" />
+      <item index="2" class="java.lang.String" itemvalue="Python.notin_hs300_tickdata_tushare0-0" />
+      <item index="3" class="java.lang.String" itemvalue="Python.notin_hs300_tickdata_tushare0-1" />
+      <item index="4" class="java.lang.String" itemvalue="Python.file_size" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.tickdata_from_tushare6-9" />
-        <item index="1" class="java.lang.String" itemvalue="Python.crawler_news" />
-        <item index="2" class="java.lang.String" itemvalue="Python.crawler_news_from_eastmoney" />
-        <item index="3" class="java.lang.String" itemvalue="Python.crawler_news (1)" />
-        <item index="4" class="java.lang.String" itemvalue="Python.tickdata_from_tushare6-8" />
+        <item index="0" class="java.lang.String" itemvalue="Python.notin_hs300_tickdata_tushare3" />
+        <item index="1" class="java.lang.String" itemvalue="Python.file_size" />
+        <item index="2" class="java.lang.String" itemvalue="Python.notin_hs300_tickdata_tushare0-1" />
+        <item index="3" class="java.lang.String" itemvalue="Python.notin_hs300_tickdata_tushare0-0" />
+        <item index="4" class="java.lang.String" itemvalue="Python.notin_hs300_tickdata_tushare6" />
       </list>
     </recent_temporary>
   </component>
@@ -433,16 +488,16 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1616" height="876" extended-state="7" />
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27056554" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2403599" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22432433" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.52837837" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -468,177 +523,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/update_jqdata_combine.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3125">
-          <caret line="129" column="43" lean-forward="false" selection-start-line="129" selection-start-column="43" selection-end-line="129" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://F:/tools/Anaconda3/Lib/site-packages/pandas/core/reshape/merge.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="51" column="4" lean-forward="false" selection-start-line="51" selection-start-column="4" selection-end-line="51" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/realtime_price.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="10" column="24" lean-forward="true" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/update_jqdata.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1200">
-          <caret line="51" column="17" lean-forward="false" selection-start-line="51" selection-start-column="17" selection-end-line="51" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/123.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1200">
-          <caret line="51" column="28" lean-forward="false" selection-start-line="51" selection-start-column="28" selection-end-line="51" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://F:/tools/Anaconda3/Lib/site-packages/jqdatasdk/api.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1225">
-          <caret line="51" column="4" lean-forward="false" selection-start-line="51" selection-start-column="4" selection-end-line="51" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://F:/tools/Anaconda3/Lib/site-packages/jqdatasdk/finance_service.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="6125">
-          <caret line="248" column="0" lean-forward="false" selection-start-line="248" selection-start-column="0" selection-end-line="248" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3/datetime.pyi">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2750">
-          <caret line="111" column="8" lean-forward="false" selection-start-line="111" selection-start-column="8" selection-end-line="111" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.PyCharm2017.2/system/python_stubs/-548376810/nt.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4875">
-          <caret line="195" column="4" lean-forward="false" selection-start-line="195" selection-start-column="4" selection-end-line="195" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://F:/tools/Anaconda3/Lib/site-packages/pandas/core/reshape/merge.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="51" column="4" lean-forward="false" selection-start-line="51" selection-start-column="4" selection-end-line="51" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/update_jqdata_combine.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3125">
-          <caret line="129" column="43" lean-forward="false" selection-start-line="129" selection-start-column="43" selection-end-line="129" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/update_jqdata.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1081">
-          <caret line="50" column="49" lean-forward="false" selection-start-line="50" selection-start-column="49" selection-end-line="50" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/123.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1104">
-          <caret line="51" column="28" lean-forward="false" selection-start-line="51" selection-start-column="28" selection-end-line="51" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://F:/tools/Anaconda3/Lib/site-packages/jqdatasdk/api.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1127">
-          <caret line="51" column="4" lean-forward="false" selection-start-line="51" selection-start-column="4" selection-end-line="51" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://F:/tools/Anaconda3/Lib/site-packages/jqdatasdk/finance_service.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5635">
-          <caret line="248" column="0" lean-forward="false" selection-start-line="248" selection-start-column="0" selection-end-line="248" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3/datetime.pyi">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2530">
-          <caret line="111" column="8" lean-forward="false" selection-start-line="111" selection-start-column="8" selection-end-line="111" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.PyCharm2017.2/system/python_stubs/-548376810/nt.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4485">
-          <caret line="195" column="4" lean-forward="false" selection-start-line="195" selection-start-column="4" selection-end-line="195" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://F:/tools/Anaconda3/Lib/site-packages/pandas/core/reshape/merge.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="51" column="4" lean-forward="false" selection-start-line="51" selection-start-column="4" selection-end-line="51" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/update_jqdata_combine.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3128">
-          <caret line="140" column="50" lean-forward="true" selection-start-line="140" selection-start-column="50" selection-end-line="140" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/hs300/000002.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.PyCharm2017.2/system/python_stubs/-548376810/nt.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4875">
-          <caret line="195" column="4" lean-forward="false" selection-start-line="195" selection-start-column="4" selection-end-line="195" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3/datetime.pyi">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2750">
-          <caret line="111" column="8" lean-forward="false" selection-start-line="111" selection-start-column="8" selection-end-line="111" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://F:/tools/Anaconda3/Lib/site-packages/jqdatasdk/finance_service.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="6125">
-          <caret line="248" column="0" lean-forward="false" selection-start-line="248" selection-start-column="0" selection-end-line="248" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/123.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1200">
-          <caret line="51" column="28" lean-forward="false" selection-start-line="51" selection-start-column="28" selection-end-line="51" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://F:/tools/Anaconda3/Lib/site-packages/pandas/core/reshape/merge.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
@@ -678,7 +562,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1273">
           <caret line="139" column="4" lean-forward="false" selection-start-line="139" selection-start-column="4" selection-end-line="139" selection-end-column="4" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -721,7 +604,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1200">
           <caret line="50" column="26" lean-forward="false" selection-start-line="50" selection-start-column="26" selection-end-line="50" selection-end-column="26" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -729,7 +611,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2025">
           <caret line="84" column="55" lean-forward="false" selection-start-line="84" selection-start-column="55" selection-end-line="84" selection-end-column="55" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -737,9 +618,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2325">
           <caret line="100" column="57" lean-forward="false" selection-start-line="100" selection-start-column="57" selection-end-line="100" selection-end-column="57" />
-          <folding>
-            <element signature="e#23#36#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -747,7 +625,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3375">
           <caret line="144" column="34" lean-forward="false" selection-start-line="144" selection-start-column="34" selection-end-line="144" selection-end-column="34" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -755,9 +632,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2450">
           <caret line="104" column="16" lean-forward="false" selection-start-line="104" selection-start-column="16" selection-end-line="104" selection-end-column="16" />
-          <folding>
-            <element signature="e#23#55#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -765,105 +639,284 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="25">
           <caret line="9" column="20" lean-forward="false" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
-          <folding>
-            <element signature="e#23#36#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/tickdata_from_tushare6-6.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="291">
+        <state relative-caret-position="1225">
           <caret line="53" column="36" lean-forward="true" selection-start-line="53" selection-start-column="36" selection-end-line="53" selection-end-column="36" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/tickdata_from_tushare6-7.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="54" column="42" lean-forward="true" selection-start-line="54" selection-start-column="42" selection-end-line="54" selection-end-column="42" />
-          <folding>
-            <element signature="e#23#38#0" expanded="true" />
-            <element signature="e#1952#1963#0" expanded="false" />
-            <element signature="e#2566#2580#0" expanded="false" />
-          </folding>
+        <state relative-caret-position="1250">
+          <caret line="54" column="42" lean-forward="false" selection-start-line="54" selection-start-column="42" selection-end-line="54" selection-end-column="42" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/tickdata_from_tushare6-8.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="290">
-          <caret line="56" column="23" lean-forward="true" selection-start-line="56" selection-start-column="23" selection-end-line="56" selection-end-column="23" />
-          <folding>
-            <element signature="e#23#38#0" expanded="true" />
-            <element signature="e#1952#1963#0" expanded="false" />
-            <element signature="e#2566#2580#0" expanded="false" />
-          </folding>
+        <state relative-caret-position="1300">
+          <caret line="56" column="23" lean-forward="false" selection-start-line="56" selection-start-column="23" selection-end-line="56" selection-end-column="23" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/tickdata_from_tushare6-9.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="265">
-          <caret line="54" column="44" lean-forward="true" selection-start-line="54" selection-start-column="44" selection-end-line="54" selection-end-column="44" />
-          <folding>
-            <element signature="e#23#38#0" expanded="true" />
-            <element signature="e#1986#1997#0" expanded="false" />
-            <element signature="e#2600#2614#0" expanded="false" />
-          </folding>
+        <state relative-caret-position="1250">
+          <caret line="54" column="44" lean-forward="false" selection-start-line="54" selection-start-column="44" selection-end-line="54" selection-end-column="44" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/tickdata_from_tushare6-5.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="366">
+        <state relative-caret-position="1300">
           <caret line="56" column="22" lean-forward="false" selection-start-line="56" selection-start-column="22" selection-end-line="56" selection-end-column="22" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/tickdata_from_tushare6-4.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="341">
-          <caret line="55" column="24" lean-forward="true" selection-start-line="55" selection-start-column="24" selection-end-line="55" selection-end-column="24" />
-          <folding />
+        <state relative-caret-position="1275">
+          <caret line="55" column="24" lean-forward="false" selection-start-line="55" selection-start-column="24" selection-end-line="55" selection-end-column="24" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/tickdata_from_tushare6-3.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="291">
-          <caret line="54" column="42" lean-forward="true" selection-start-line="54" selection-start-column="42" selection-end-line="54" selection-end-column="42" />
-          <folding />
+        <state relative-caret-position="1250">
+          <caret line="54" column="42" lean-forward="false" selection-start-line="54" selection-start-column="42" selection-end-line="54" selection-end-column="42" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/tickdata_from_tushare6-2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="53" column="36" lean-forward="true" selection-start-line="53" selection-start-column="36" selection-end-line="53" selection-end-column="36" />
-          <folding />
+        <state relative-caret-position="1225">
+          <caret line="53" column="36" lean-forward="false" selection-start-line="53" selection-start-column="36" selection-end-line="53" selection-end-column="36" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tickdata_from_tushare6-1.py">
+    <entry file="file://$PROJECT_DIR$/process_tushare.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="226">
-          <caret line="52" column="36" lean-forward="true" selection-start-line="52" selection-start-column="36" selection-end-line="52" selection-end-column="36" />
-          <folding />
+        <state relative-caret-position="265">
+          <caret line="39" column="51" lean-forward="false" selection-start-line="39" selection-start-column="51" selection-end-line="39" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code_notin_hs300/notin_hs300_tickdata_tushare0-6.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="121">
+          <caret line="57" column="50" lean-forward="false" selection-start-line="57" selection-start-column="50" selection-end-line="57" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code_notin_hs300/notin_hs300_tickdata_tushare0-5.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="60" column="34" lean-forward="true" selection-start-line="60" selection-start-column="34" selection-end-line="60" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code_notin_hs300/notin_hs300_tickdata_tushare0-4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="62" column="40" lean-forward="true" selection-start-line="62" selection-start-column="40" selection-end-line="62" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code_notin_hs300/notin_hs300_tickdata_tushare0-3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="60" column="34" lean-forward="true" selection-start-line="60" selection-start-column="34" selection-end-line="60" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code_notin_hs300/notin_hs300_tickdata_tushare0-2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="146">
+          <caret line="61" column="20" lean-forward="true" selection-start-line="61" selection-start-column="20" selection-end-line="61" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code_notin_hs300/notin_hs300_tickdata_tushare0-1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="164">
+          <caret line="61" column="20" lean-forward="true" selection-start-line="61" selection-start-column="20" selection-end-line="61" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code_notin_hs300/notin_hs300_tickdata_tushare0-8.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="61" column="20" lean-forward="true" selection-start-line="61" selection-start-column="20" selection-end-line="61" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code_notin_hs300/notin_hs300_tickdata_tushare6-9.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="62" column="40" lean-forward="true" selection-start-line="62" selection-start-column="40" selection-end-line="62" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code_notin_hs300/notin_hs300_tickdata_tushare6-8.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="55" column="31" lean-forward="true" selection-start-line="55" selection-start-column="31" selection-end-line="55" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code_notin_hs300/notin_hs300_tickdata_tushare6-7.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="68" column="68" lean-forward="true" selection-start-line="68" selection-start-column="68" selection-end-line="68" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code_notin_hs300/notin_hs300_tickdata_tushare6-6.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="67" column="72" lean-forward="false" selection-start-line="67" selection-start-column="72" selection-end-line="67" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code_notin_hs300/notin_hs300_tickdata_tushare6-5.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="60" column="34" lean-forward="false" selection-start-line="60" selection-start-column="34" selection-end-line="60" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code_notin_hs300/notin_hs300_tickdata_tushare6-4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="60" column="34" lean-forward="false" selection-start-line="60" selection-start-column="34" selection-end-line="60" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code_notin_hs300/notin_hs300_tickdata_tushare6-1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="64" column="38" lean-forward="false" selection-start-line="64" selection-start-column="38" selection-end-line="64" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code_notin_hs300/notin_hs300_tickdata_tushare6-0.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1475">
+          <caret line="62" column="40" lean-forward="false" selection-start-line="62" selection-start-column="40" selection-end-line="62" selection-end-column="40" />
+          <folding>
+            <element signature="e#42#57#0" expanded="true" />
+            <element signature="e#2205#2216#0" expanded="false" />
+            <element signature="e#2819#2833#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code_notin_hs300/notin_hs300_tickdata_tushare0-7.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2200">
+          <caret line="93" column="53" lean-forward="false" selection-start-line="93" selection-start-column="53" selection-end-line="93" selection-end-column="53" />
+          <folding>
+            <element signature="e#42#57#0" expanded="true" />
+            <element signature="e#2205#2216#0" expanded="false" />
+            <element signature="e#2819#2833#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code_notin_hs300/notin_hs300_tickdata_tushare0-9.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding>
+            <element signature="e#42#57#0" expanded="true" />
+            <element signature="e#2205#2216#0" expanded="false" />
+            <element signature="e#2819#2833#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/tickdata_from_tushare6-0.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="55" column="23" lean-forward="true" selection-start-line="55" selection-start-column="23" selection-end-line="55" selection-end-column="23" />
+        <state relative-caret-position="2050">
+          <caret line="91" column="31" lean-forward="false" selection-start-line="91" selection-start-column="31" selection-end-line="91" selection-end-column="31" />
           <folding>
-            <element signature="e#23#38#0" expanded="true" />
-            <element signature="e#1926#1937#0" expanded="false" />
-            <element signature="e#2540#2554#0" expanded="false" />
+            <element signature="e#1932#1943#0" expanded="false" />
+            <element signature="e#2546#2560#0" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code_notin_hs300/notin_hs300_tickdata_tushare6-3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1525">
+          <caret line="64" column="38" lean-forward="false" selection-start-line="64" selection-start-column="38" selection-end-line="64" selection-end-column="38" />
+          <folding>
+            <element signature="e#2205#2216#0" expanded="false" />
+            <element signature="e#2819#2833#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code_notin_hs300/notin_hs300_tickdata_tushare6-2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1650">
+          <caret line="69" column="34" lean-forward="false" selection-start-line="69" selection-start-column="34" selection-end-line="69" selection-end-column="34" />
+          <folding>
+            <element signature="e#42#57#0" expanded="true" />
+            <element signature="e#2205#2216#0" expanded="false" />
+            <element signature="e#2819#2833#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code_notin_hs300/notin_hs300_tickdata_tushare0-0.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding>
+            <element signature="e#2205#2216#0" expanded="false" />
+            <element signature="e#2819#2833#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tickdata_from_tushare6-1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1050">
+          <caret line="46" column="25" lean-forward="false" selection-start-line="46" selection-start-column="16" selection-end-line="46" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code_notin_hs300/file_size.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" column="27" lean-forward="false" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code_notin_hs300/notin_hs300_tickdata_tushare3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="365">
+          <caret line="95" column="26" lean-forward="false" selection-start-line="95" selection-start-column="26" selection-end-line="95" selection-end-column="26" />
+          <folding>
+            <element signature="e#42#57#0" expanded="true" />
+            <element signature="e#2190#2201#0" expanded="false" />
+            <element signature="e#2804#2818#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>

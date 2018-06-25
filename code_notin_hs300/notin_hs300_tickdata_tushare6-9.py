@@ -1,18 +1,27 @@
 # -*- coding:utf-8 -*-
-import datetime
 
+"""
+只下载6开头的股票
+"""
+import datetime
 import os
 import tushare as ts
 import pandas as pd
 
-
 conns = ts.get_apis()
-hs300_dir = "./data/hs300/"
-tick_data_hs300 = "./data/tick_data_hs300/"
+# hs300_dir = "./data/hs300/"
+tick_data_hs300 = "./data/code_notin_hs300"
 
 start_date = "2005-01-04"
 # start_date = "2017-05-01"
 end_date = "2018-06-19"
+
+
+def get_code_list():
+    notin_hs300_file = "./data/code_notin_201805_hs300.csv"
+    notin_hs300_df = pd.read_csv(notin_hs300_file, converters = {u'code': str})
+    code_list = notin_hs300_df['code'].values
+    return code_list
 
 
 def get_tick_data_df(adj_code, trading_date):
@@ -44,15 +53,17 @@ def get_exist_code(path):
 
 def main():
     exist_code = get_exist_code(tick_data_hs300)
-    for name in os.listdir( hs300_dir ):
+    code_list = get_code_list()
+    for name in code_list:
         print(">>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>")
-        csv_file_path = os.path.join( tick_data_hs300, name )
-        adj_code = name.split(".")[0]
+        csv_file_path = os.path.join( tick_data_hs300, name + ".csv" )
+        adj_code = name
         if adj_code in exist_code:
             continue
-        # if adj_code.startswith("6"):
-        #     if not adj_code.endswith("0"):
-        #         continue
+        if not adj_code.startswith("6"):
+            continue
+        if not adj_code.endswith("9"):
+            continue
         print(adj_code)
         datestart = datetime.datetime.strptime( start_date, '%Y-%m-%d' )
         dateend = datetime.datetime.strptime( end_date, '%Y-%m-%d' )
