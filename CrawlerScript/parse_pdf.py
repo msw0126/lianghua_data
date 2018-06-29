@@ -8,7 +8,7 @@ from pdfminer.pdfinterp import PDFTextExtractionNotAllowed
 
 def parse(pdf_path, txt_path):
     fp = open(pdf_path, 'rb') # 以二进制读模式打开
-    #用文件对象来创建一个pdf文档分析器
+    # 用文件对象来创建一个pdf文档分析器
     praser = PDFParser(fp)
     # 创建一个PDF文档
     doc = PDFDocument()

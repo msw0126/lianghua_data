@@ -119,15 +119,6 @@ def save_report_txt(url_list, file_path, code):
             # print(text_part)
 
 
-# def get_code_list():
-#     """
-#     得到所有股票列表
-#     """
-#     df = ts.get_stock_basics()
-#     df["code"] = df.index
-#     return df["code"].values.tolist()
-
-
 if __name__ == '__main__':
     #当前日期
     target_date = datetime.datetime.now()

@@ -108,7 +108,7 @@ def save_news_text():
             os.makedirs( file_dir_path )
         news_title_list, news_url_list = get_url_list( code )
         for news_title, news_url in zip( news_title_list, news_url_list ):
-            time.sleep( 3 )
+            time.sleep( 2 )
             # print( "-------------------------------------------------------" )
             # print( news_title )
             # print( news_url )

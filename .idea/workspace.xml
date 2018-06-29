@@ -1,7 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="65eda8b5-38ba-4a89-8f4a-dba4910cd57d" name="Default" comment="" />
+    <list default="true" id="65eda8b5-38ba-4a89-8f4a-dba4910cd57d" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CrawlerScript/crawler_titledate_from_eastmoney.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CrawlerScript/eastmoney/company_news.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CrawlerScript/crawler_title_date_from_10jqka.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CrawlerScript/eastmoney/industry_news.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CrawlerScript/eastmoney/industry_research_report.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CrawlerScript/test.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CrawlerScript/eastmoney/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CrawlerScript/eastmoney/Stocks_research_report.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CrawlerScript/eastmoney/notice.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CrawlerScript/crawler_research_report.py" afterPath="$PROJECT_DIR$/CrawlerScript/crawler_research_report.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CrawlerScript/NetEaseFinance/crawler_notice_from_NetEaseFinance.py" afterPath="$PROJECT_DIR$/CrawlerScript/NetEaseFinance/crawler_notice_from_NetEaseFinance.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CrawlerScript/parse_pdf.py" afterPath="$PROJECT_DIR$/CrawlerScript/parse_pdf.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CrawlerScript/crawler_config.py" afterPath="$PROJECT_DIR$/CrawlerScript/crawler_config.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CrawlerScript/crawler_news.py" afterPath="$PROJECT_DIR$/CrawlerScript/crawler_news.py" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,79 +27,168 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/liang_hua_data$update_jqdata_combine.coverage" NAME="update_jqdata_combine Coverage Results" MODIFIED="1528962666403" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/lianghua_data$industry_news.coverage" NAME="industry_news Coverage Results" MODIFIED="1530172522098" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CrawlerScript/eastmoney" />
     <SUITE FILE_PATH="coverage/liang_hua_data$tickdata_from_tushare6_7.coverage" NAME="tickdata_from_tushare6-7 Coverage Results" MODIFIED="1529543249184" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/liang_hua_data$real_time_price.coverage" NAME="real-time_price Coverage Results" MODIFIED="1529027031295" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/lianghua_data$notin_hs300_tickdata_tushare0_1.coverage" NAME="notin_hs300_tickdata_tushare0-1 Coverage Results" MODIFIED="1529651059648" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code_notin_hs300" />
     <SUITE FILE_PATH="coverage/liang_hua_data$tickdata_from_tushare6_1.coverage" NAME="tickdata_from_tushare6-1 Coverage Results" MODIFIED="1529543201864" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/lianghua_data$crawler_news_from_eastmoney.coverage" NAME="crawler_news_from_eastmoney Coverage Results" MODIFIED="1529896300973" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CrawlerScript/eastmoney" />
-    <SUITE FILE_PATH="coverage/lianghua_data$crawler_notice_from_NetEaseFinance.coverage" NAME="crawler_notice_from_NetEaseFinance Coverage Results" MODIFIED="1529910844985" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CrawlerScript/NetEaseFinance" />
     <SUITE FILE_PATH="coverage/liang_hua_data$tickdata_from_tushare3.coverage" NAME="tickdata_from_tushare3 Coverage Results" MODIFIED="1529456978849" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/lianghua_data$process_tushare.coverage" NAME="process_tushare Coverage Results" MODIFIED="1529646914961" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/lianghua_data$notin_hs300_tickdata_tushare.coverage" NAME="notin_hs300_tickdata_tushare Coverage Results" MODIFIED="1529649949201" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code_notin_hs300" />
     <SUITE FILE_PATH="coverage/liang_hua_data$tickdata_from_tushare6.coverage" NAME="tickdata_from_tushare6 Coverage Results" MODIFIED="1529542674457" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/liang_hua_data$crawler_notice.coverage" NAME="crawler_notice Coverage Results" MODIFIED="1529482077033" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CrawlerScript" />
     <SUITE FILE_PATH="coverage/liang_hua_data$tickdata_from_tushare6_4.coverage" NAME="tickdata_from_tushare6-4 Coverage Results" MODIFIED="1529543219373" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/lianghua_data$notin_hs300_tickdata_tushare3.coverage" NAME="notin_hs300_tickdata_tushare3 Coverage Results" MODIFIED="1529659678292" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code_notin_hs300" />
     <SUITE FILE_PATH="coverage/liang_hua_data$get_table.coverage" NAME="get_table Coverage Results" MODIFIED="1529457710973" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/NetEaseFinance" />
-    <SUITE FILE_PATH="coverage/liang_hua_data$tickdata_from_tushare.coverage" NAME="tickdata_from_tushare Coverage Results" MODIFIED="1529415409305" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/liang_hua_data$crawler_news_from_eastmoney.coverage" NAME="crawler_news_from_eastmoney Coverage Results" MODIFIED="1529561098563" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CrawlerScript/eastmoney" />
-    <SUITE FILE_PATH="coverage/liang_hua_data$jqdata_test.coverage" NAME="jqdata_test Coverage Results" MODIFIED="1529378892206" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/lianghua_data$company_news.coverage" NAME="company_news Coverage Results" MODIFIED="1530168720548" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CrawlerScript/eastmoney" />
     <SUITE FILE_PATH="coverage/lianghua_data$notin_hs300_tickdata_tushare0.coverage" NAME="notin_hs300_tickdata_tushare0 Coverage Results" MODIFIED="1529650546654" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code_notin_hs300" />
-    <SUITE FILE_PATH="coverage/liang_hua_data$tickdata_from_tushare6_6.coverage" NAME="tickdata_from_tushare6-6 Coverage Results" MODIFIED="1529543242510" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/lianghua_data$parse_pdf.coverage" NAME="parse_pdf Coverage Results" MODIFIED="1529906071150" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CrawlerScript" />
     <SUITE FILE_PATH="coverage/liang_hua_data$update_jqdata.coverage" NAME="update_jqdata Coverage Results" MODIFIED="1528859823668" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/liang_hua_data$tickdata_from_tushare6_9.coverage" NAME="tickdata_from_tushare6-9 Coverage Results" MODIFIED="1529543269609" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/lianghua_data$file_size.coverage" NAME="file_size Coverage Results" MODIFIED="1529658892649" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code_notin_hs300" />
     <SUITE FILE_PATH="coverage/liang_hua_data$crawler_news.coverage" NAME="crawler_news Coverage Results" MODIFIED="1529568558036" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CrawlerScript" />
-    <SUITE FILE_PATH="coverage/liang_hua_data$data_from_tushare.coverage" NAME="data_from_tushare Coverage Results" MODIFIED="1529393650935" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/liang_hua_data$crawler_research_report.coverage" NAME="crawler_research_report Coverage Results" MODIFIED="1529483172404" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CrawlerScript" />
     <SUITE FILE_PATH="coverage/liang_hua_data$tickdata_from_tushare6_3.coverage" NAME="tickdata_from_tushare6-3 Coverage Results" MODIFIED="1529543214070" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/liang_hua_data$tickdata_from_tushare6_0.coverage" NAME="tickdata_from_tushare6-0 Coverage Results" MODIFIED="1529543197120" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/lianghua_data$crawler_research_report.coverage" NAME="crawler_research_report Coverage Results" MODIFIED="1529910651532" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CrawlerScript" />
+    <SUITE FILE_PATH="coverage/lianghua_data$crawler_titledate_from_eastmoney.coverage" NAME="crawler_titledate_from_eastmoney Coverage Results" MODIFIED="1530091216473" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CrawlerScript" />
+    <SUITE FILE_PATH="coverage/lianghua_data$crawler_research_report.coverage" NAME="crawler_research_report Coverage Results" MODIFIED="1530004326788" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CrawlerScript" />
+    <SUITE FILE_PATH="coverage/lianghua_data$Stocks_research_report.coverage" NAME="Stocks_research_report Coverage Results" MODIFIED="1530152838387" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CrawlerScript/eastmoney" />
     <SUITE FILE_PATH="coverage/liang_hua_data$tickdata_from_tushare6_8.coverage" NAME="tickdata_from_tushare6-8 Coverage Results" MODIFIED="1529543261146" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/liang_hua_data$tickdata_from_tushare6_5.coverage" NAME="tickdata_from_tushare6-5 Coverage Results" MODIFIED="1529543230030" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/lianghua_data$notin_hs300_tickdata_tushare6.coverage" NAME="notin_hs300_tickdata_tushare6 Coverage Results" MODIFIED="1529650553683" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code_notin_hs300" />
-    <SUITE FILE_PATH="coverage/lianghua_data$tickdata_from_tushare6_9.coverage" NAME="tickdata_from_tushare6-9 Coverage Results" MODIFIED="1529636738299" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/liang_hua_data$123.coverage" NAME="123 Coverage Results" MODIFIED="1528858404021" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/liang_hua_data$read_file.coverage" NAME="read_file Coverage Results" MODIFIED="1529457526673" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/liang_hua_data$tickdata_from_tushare0.coverage" NAME="tickdata_from_tushare0 Coverage Results" MODIFIED="1529469664734" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/lianghua_data$notin_hs300_tickdata_tushare0_0.coverage" NAME="notin_hs300_tickdata_tushare0-0 Coverage Results" MODIFIED="1529650998181" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code_notin_hs300" />
     <SUITE FILE_PATH="coverage/lianghua_data$crawler_notice_from_eastmoney.coverage" NAME="crawler_notice_from_eastmoney Coverage Results" MODIFIED="1529907582075" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CrawlerScript/eastmoney" />
-    <SUITE FILE_PATH="coverage/lianghua_data$crawler_news.coverage" NAME="crawler_news Coverage Results" MODIFIED="1529910738314" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CrawlerScript" />
+    <SUITE FILE_PATH="coverage/lianghua_data$crawler_news.coverage" NAME="crawler_news Coverage Results" MODIFIED="1530065159401" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CrawlerScript" />
     <SUITE FILE_PATH="coverage/liang_hua_data$tickdata_from_tushare6_2.coverage" NAME="tickdata_from_tushare6-2 Coverage Results" MODIFIED="1529543208798" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/liang_hua_data$crawler_news__1_.coverage" NAME="crawler_news (1) Coverage Results" MODIFIED="1529550057847" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CrawlerScript/eastmoney" />
+    <SUITE FILE_PATH="coverage/liang_hua_data$real_time_price.coverage" NAME="real-time_price Coverage Results" MODIFIED="1529027031295" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/lianghua_data$notin_hs300_tickdata_tushare0_1.coverage" NAME="notin_hs300_tickdata_tushare0-1 Coverage Results" MODIFIED="1529651059648" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code_notin_hs300" />
+    <SUITE FILE_PATH="coverage/lianghua_data$crawler_notice_from_NetEaseFinance.coverage" NAME="crawler_notice_from_NetEaseFinance Coverage Results" MODIFIED="1530004316789" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CrawlerScript/NetEaseFinance" />
+    <SUITE FILE_PATH="coverage/lianghua_data$industry_research_report.coverage" NAME="industry_research_report Coverage Results" MODIFIED="1530156458907" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CrawlerScript/eastmoney" />
+    <SUITE FILE_PATH="coverage/lianghua_data$crawler_title_date.coverage" NAME="crawler_title_date Coverage Results" MODIFIED="1530071058469" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CrawlerScript" />
+    <SUITE FILE_PATH="coverage/lianghua_data$process_tushare.coverage" NAME="process_tushare Coverage Results" MODIFIED="1529646914961" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/liang_hua_data$tickdata_from_tushare.coverage" NAME="tickdata_from_tushare Coverage Results" MODIFIED="1529415409305" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/liang_hua_data$jqdata_test.coverage" NAME="jqdata_test Coverage Results" MODIFIED="1529378892206" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/lianghua_data$test.coverage" NAME="test Coverage Results" MODIFIED="1530085430866" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CrawlerScript" />
+    <SUITE FILE_PATH="coverage/liang_hua_data$tickdata_from_tushare6_6.coverage" NAME="tickdata_from_tushare6-6 Coverage Results" MODIFIED="1529543242510" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/liang_hua_data$tickdata_from_tushare6_9.coverage" NAME="tickdata_from_tushare6-9 Coverage Results" MODIFIED="1529543269609" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/liang_hua_data$data_from_tushare.coverage" NAME="data_from_tushare Coverage Results" MODIFIED="1529393650935" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/liang_hua_data$crawler_research_report.coverage" NAME="crawler_research_report Coverage Results" MODIFIED="1529483172404" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CrawlerScript" />
+    <SUITE FILE_PATH="coverage/liang_hua_data$tickdata_from_tushare6_0.coverage" NAME="tickdata_from_tushare6-0 Coverage Results" MODIFIED="1529543197120" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/lianghua_data$notice.coverage" NAME="notice Coverage Results" MODIFIED="1530163114474" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CrawlerScript/eastmoney" />
+    <SUITE FILE_PATH="coverage/liang_hua_data$tickdata_from_tushare6_5.coverage" NAME="tickdata_from_tushare6-5 Coverage Results" MODIFIED="1529543230030" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/lianghua_data$crawler_config.coverage" NAME="crawler_config Coverage Results" MODIFIED="1529912261121" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CrawlerScript" />
+    <SUITE FILE_PATH="coverage/lianghua_data$tickdata_from_tushare6_9.coverage" NAME="tickdata_from_tushare6-9 Coverage Results" MODIFIED="1529636738299" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/liang_hua_data$123.coverage" NAME="123 Coverage Results" MODIFIED="1528858404021" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="file_size.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/code_notin_hs300/file_size.py">
+      <file leaf-file-name="crawler_research_report.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CrawlerScript/crawler_research_report.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="4" column="27" lean-forward="false" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="notin_hs300_tickdata_tushare3.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/code_notin_hs300/notin_hs300_tickdata_tushare3.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2250">
-              <caret line="95" column="26" lean-forward="false" selection-start-line="95" selection-start-column="26" selection-end-line="95" selection-end-column="26" />
+            <state relative-caret-position="1050">
+              <caret line="51" column="41" lean-forward="false" selection-start-line="51" selection-start-column="32" selection-end-line="51" selection-end-column="45" />
               <folding>
-                <element signature="e#42#57#0" expanded="true" />
-                <element signature="e#2190#2201#0" expanded="false" />
-                <element signature="e#2804#2818#0" expanded="false" />
+                <element signature="e#23#36#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
+      <file leaf-file-name="crawler_news.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CrawlerScript/crawler_news.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="3" column="22" lean-forward="true" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
+            <state relative-caret-position="1975">
+              <caret line="89" column="18" lean-forward="false" selection-start-line="89" selection-start-column="0" selection-end-line="94" selection-end-column="26" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="crawler_titledate_from_eastmoney.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CrawlerScript/crawler_titledate_from_eastmoney.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2650">
+              <caret line="118" column="44" lean-forward="false" selection-start-line="118" selection-start-column="44" selection-end-line="118" selection-end-column="44" />
+              <folding>
+                <element signature="e#23#52#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Stocks_research_report.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CrawlerScript/eastmoney/Stocks_research_report.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1575">
+              <caret line="77" column="0" lean-forward="false" selection-start-line="77" selection-start-column="0" selection-end-line="77" selection-end-column="0" />
+              <folding>
+                <element signature="e#23#36#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="industry_research_report.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CrawlerScript/eastmoney/industry_research_report.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2375">
+              <caret line="109" column="11" lean-forward="false" selection-start-line="109" selection-start-column="11" selection-end-line="109" selection-end-column="11" />
+              <folding>
+                <element signature="e#24#37#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="notice.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CrawlerScript/eastmoney/notice.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2350">
+              <caret line="108" column="15" lean-forward="false" selection-start-line="108" selection-start-column="15" selection-end-line="108" selection-end-column="15" />
+              <folding>
+                <element signature="e#24#37#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="company_news.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CrawlerScript/eastmoney/company_news.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3925">
+              <caret line="171" column="44" lean-forward="false" selection-start-line="169" selection-start-column="4" selection-end-line="173" selection-end-column="28" />
+              <folding>
+                <element signature="e#24#37#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="industry_news.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/CrawlerScript/eastmoney/industry_news.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="284">
+              <caret line="146" column="40" lean-forward="true" selection-start-line="146" selection-start-column="40" selection-end-line="146" selection-end-column="40" />
+              <folding>
+                <element signature="e#23#36#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="crawler_notice_from_NetEaseFinance.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CrawlerScript/NetEaseFinance/crawler_notice_from_NetEaseFinance.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1400">
+              <caret line="66" column="45" lean-forward="false" selection-start-line="66" selection-start-column="45" selection-end-line="66" selection-end-column="45" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="crawler_config.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CrawlerScript/crawler_config.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="925">
+              <caret line="40" column="19" lean-forward="false" selection-start-line="40" selection-start-column="19" selection-end-line="40" selection-end-column="19" />
               <folding />
             </state>
           </provider>
@@ -100,29 +205,36 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>capitalization</find>
-      <find>to_csv</find>
-      <find>000723</find>
-      <find>当天没有数据</find>
-      <find>查看PDF原文</find>
-      <find>&lt;br/&gt;&lt;br/&gt;</find>
-      <find>国家统计局周四公布的中国</find>
-      <find>行业韧性显露 地产龙头绝对收益可期</find>
-      <find>房企的还债年：偿还规模井喷达历史之最 加速销售回流抗压</find>
-      <find>比如英飞拓</find>
-      <find>相关板块</find>
-      <find>万科A(000002)融资融</find>
-      <find>以上资讯由同花顺AI写手完成，写作系统尚处于测试阶段，内容仅供参考</find>
-      <find>###### 相关板块</find>
-      <find>####</find>
-      <find>save_file</find>
-      <find>time</find>
-      <find>9</find>
-      <find>5</find>
-      <find>格力电器:第十届监事会第十八次会议决议公告</find>
-      <find>格力电器:关于召开2017年年度股东大会的通知</find>
       <find>news</find>
       <find>受惠消费升级大趋势</find>
+      <find>252家公司发布一季度业绩预告 81只利润翻番股彰</find>
+      <find>互联网家装迎风入市</find>
+      <find>print</find>
+      <find>fl w390 mb10</find>
+      <find>nlist</find>
+      <find>borderstyle2 pt1</find>
+      <find>岱勒新材:关于收到长沙市环境保护局行政处罚决定</find>
+      <find>lightBlue</find>
+      <find>fz14</find>
+      <find>&lt;/td&gt;</find>
+      <find>&lt;a</find>
+      <find>text-indent10</find>
+      <find>Stocks_n</find>
+      <find>603301</find>
+      <find>深度报告：光伏+蓝宝石双轮驱动，公司发展步入机遇期</find>
+      <find>深度报告：光伏+蓝宝石双轮</find>
+      <find>infoCode</find>
+      <find>firstInit</find>
+      <find>买入</find>
+      <find>增持</find>
+      <find>建筑建材行业日报：泛东北水</find>
+      <find>今日最新研究报告</find>
+      <find>岱勒新材:关于收到长沙市环境保护局行政处罚决定的公告</find>
+      <find>news_title</find>
+      <find>来源： 东方财富网</find>
+      <find>小</find>
+      <find>裕兴股份:关于董事减持股份计划数量过半的公告</find>
+      <find>&lt;div class=&quot;time&quot;&gt;</find>
     </findStrings>
     <replaceStrings>
       <replace>news</replace>
@@ -135,14 +247,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/read_file.py" />
-        <option value="$PROJECT_DIR$/NetEaseFinance/get_table.py" />
-        <option value="$PROJECT_DIR$/CrawlerScript/crawler_notice.py" />
-        <option value="$PROJECT_DIR$/tickdata_from_tushare6.py" />
-        <option value="$PROJECT_DIR$/CrawlerScript/tickdata_from_tushare6-6.py" />
-        <option value="$PROJECT_DIR$/CrawlerScript/eastmoney/crawler_news.py" />
-        <option value="$PROJECT_DIR$/tickdata_from_tushare6-9.py" />
-        <option value="$PROJECT_DIR$/tickdata_from_tushare6-8.py" />
         <option value="$PROJECT_DIR$/tickdata_from_tushare6-7.py" />
         <option value="$PROJECT_DIR$/tickdata_from_tushare6-5.py" />
         <option value="$PROJECT_DIR$/tickdata_from_tushare6-4.py" />
@@ -180,12 +284,20 @@
         <option value="$PROJECT_DIR$/code_notin_hs300/file_size.py" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/CrawlerScript/eastmoney/crawler_news_from_eastmoney.py" />
-        <option value="$PROJECT_DIR$/CrawlerScript/parse_pdf.py" />
         <option value="$PROJECT_DIR$/CrawlerScript/eastmoney/crawler_notice_from_eastmoney.py" />
-        <option value="$PROJECT_DIR$/CrawlerScript/crawler_config.py" />
-        <option value="$PROJECT_DIR$/CrawlerScript/NetEaseFinance/crawler_notice_from_NetEaseFinance.py" />
-        <option value="$PROJECT_DIR$/CrawlerScript/crawler_news.py" />
         <option value="$PROJECT_DIR$/CrawlerScript/crawler_research_report.py" />
+        <option value="$PROJECT_DIR$/CrawlerScript/crawler_news.py" />
+        <option value="$PROJECT_DIR$/CrawlerScript/parse_pdf.py" />
+        <option value="$PROJECT_DIR$/CrawlerScript/NetEaseFinance/crawler_notice_from_NetEaseFinance.py" />
+        <option value="$PROJECT_DIR$/CrawlerScript/crawler_title_date.py" />
+        <option value="$PROJECT_DIR$/CrawlerScript/test.py" />
+        <option value="$PROJECT_DIR$/CrawlerScript/crawler_titledate_from_eastmoney.py" />
+        <option value="$PROJECT_DIR$/CrawlerScript/eastmoney/Stocks_research_report.py" />
+        <option value="$PROJECT_DIR$/CrawlerScript/eastmoney/industry_research_report.py" />
+        <option value="$PROJECT_DIR$/CrawlerScript/eastmoney/notice.py" />
+        <option value="$PROJECT_DIR$/CrawlerScript/eastmoney/company_news.py" />
+        <option value="$PROJECT_DIR$/CrawlerScript/crawler_config.py" />
+        <option value="$PROJECT_DIR$/CrawlerScript/eastmoney/industry_news.py" />
       </list>
     </option>
   </component>
@@ -195,11 +307,11 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="739" />
-    <option name="y" value="12" />
-    <option name="width" value="1367" />
-    <option name="height" value="814" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="194" />
+    <option name="y" value="20" />
+    <option name="width" value="1397" />
+    <option name="height" value="851" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -219,7 +331,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -227,17 +338,29 @@
               <item name="lianghua_data" type="b2602c69:ProjectViewProjectNode" />
               <item name="lianghua_data" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="lianghua_data" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lianghua_data" type="462c0819:PsiDirectoryNode" />
+              <item name="CrawlerScript" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lianghua_data" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lianghua_data" type="462c0819:PsiDirectoryNode" />
+              <item name="CrawlerScript" type="462c0819:PsiDirectoryNode" />
+              <item name="eastmoney" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="F:/learn/keras_book" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -261,44 +384,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.crawler_notice_from_NetEaseFinance">
-    <configuration name="crawler_news" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CrawlerScript" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="liang_hua_data" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CrawlerScript/crawler_news.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-    </configuration>
-    <configuration name="crawler_notice_from_NetEaseFinance" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CrawlerScript/NetEaseFinance" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="liang_hua_data" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CrawlerScript/NetEaseFinance/crawler_notice_from_NetEaseFinance.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-    </configuration>
-    <configuration name="crawler_notice_from_eastmoney" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.industry_news">
+    <configuration name="Stocks_research_report" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -311,61 +398,97 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="liang_hua_data" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CrawlerScript/eastmoney/crawler_notice_from_eastmoney.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CrawlerScript/eastmoney/Stocks_research_report.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="crawler_research_report" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="company_news" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CrawlerScript" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CrawlerScript/eastmoney" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="liang_hua_data" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CrawlerScript/crawler_research_report.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CrawlerScript/eastmoney/company_news.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="parse_pdf" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="industry_news" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CrawlerScript" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CrawlerScript/eastmoney" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="liang_hua_data" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CrawlerScript/parse_pdf.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CrawlerScript/eastmoney/industry_news.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="industry_research_report" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CrawlerScript/eastmoney" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="liang_hua_data" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CrawlerScript/eastmoney/industry_research_report.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="notice" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CrawlerScript/eastmoney" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="liang_hua_data" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CrawlerScript/eastmoney/notice.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.crawler_notice_from_eastmoney" />
-      <item index="1" class="java.lang.String" itemvalue="Python.parse_pdf" />
-      <item index="2" class="java.lang.String" itemvalue="Python.crawler_news" />
-      <item index="3" class="java.lang.String" itemvalue="Python.crawler_research_report" />
-      <item index="4" class="java.lang.String" itemvalue="Python.crawler_notice_from_NetEaseFinance" />
+      <item index="0" class="java.lang.String" itemvalue="Python.Stocks_research_report" />
+      <item index="1" class="java.lang.String" itemvalue="Python.industry_research_report" />
+      <item index="2" class="java.lang.String" itemvalue="Python.notice" />
+      <item index="3" class="java.lang.String" itemvalue="Python.company_news" />
+      <item index="4" class="java.lang.String" itemvalue="Python.industry_news" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.crawler_notice_from_NetEaseFinance" />
-        <item index="1" class="java.lang.String" itemvalue="Python.crawler_news" />
-        <item index="2" class="java.lang.String" itemvalue="Python.crawler_research_report" />
-        <item index="3" class="java.lang.String" itemvalue="Python.crawler_notice_from_eastmoney" />
-        <item index="4" class="java.lang.String" itemvalue="Python.parse_pdf" />
+        <item index="0" class="java.lang.String" itemvalue="Python.industry_news" />
+        <item index="1" class="java.lang.String" itemvalue="Python.company_news" />
+        <item index="2" class="java.lang.String" itemvalue="Python.notice" />
+        <item index="3" class="java.lang.String" itemvalue="Python.industry_research_report" />
+        <item index="4" class="java.lang.String" itemvalue="Python.Stocks_research_report" />
       </list>
     </recent_temporary>
   </component>
@@ -383,19 +506,20 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
+    <frame x="194" y="20" width="1397" height="851" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24357326" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20942408" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2635135" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3635135" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3994602" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39864865" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -413,136 +537,19 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://F:/tools/Anaconda3/Lib/site-packages/jqdatasdk/api.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-175">
-          <caret line="51" column="4" lean-forward="false" selection-start-line="51" selection-start-column="4" selection-end-line="51" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jqdata_test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="159">
-          <caret line="8" column="24" lean-forward="false" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://F:/tools/Anaconda3/Lib/urllib/request.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1273">
-          <caret line="139" column="4" lean-forward="false" selection-start-line="139" selection-start-column="4" selection-end-line="139" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/update_jqdata.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="52">
-          <caret line="35" column="20" lean-forward="false" selection-start-line="35" selection-start-column="20" selection-end-line="35" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/read_file.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="8" column="20" lean-forward="false" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/realtime_price.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/NetEaseFinance/download_financial_statement.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="9" column="7" lean-forward="false" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/update_jqdata_combine.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="8" column="29" lean-forward="false" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://F:/tools/Anaconda3/Lib/site-packages/html2text/config.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1200">
-          <caret line="50" column="26" lean-forward="false" selection-start-line="50" selection-start-column="26" selection-end-line="50" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://F:/tools/Anaconda3/Lib/site-packages/html2text/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2025">
-          <caret line="84" column="55" lean-forward="false" selection-start-line="84" selection-start-column="55" selection-end-line="84" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tickdata_from_tushare6-6.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1225">
-          <caret line="53" column="36" lean-forward="true" selection-start-line="53" selection-start-column="36" selection-end-line="53" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tickdata_from_tushare6-7.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1250">
-          <caret line="54" column="42" lean-forward="false" selection-start-line="54" selection-start-column="42" selection-end-line="54" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tickdata_from_tushare6-8.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1300">
-          <caret line="56" column="23" lean-forward="false" selection-start-line="56" selection-start-column="23" selection-end-line="56" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tickdata_from_tushare6-9.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1250">
-          <caret line="54" column="44" lean-forward="false" selection-start-line="54" selection-start-column="44" selection-end-line="54" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tickdata_from_tushare6-5.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1300">
-          <caret line="56" column="22" lean-forward="false" selection-start-line="56" selection-start-column="22" selection-end-line="56" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tickdata_from_tushare6-4.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1275">
-          <caret line="55" column="24" lean-forward="false" selection-start-line="55" selection-start-column="24" selection-end-line="55" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tickdata_from_tushare6-3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1250">
-          <caret line="54" column="42" lean-forward="false" selection-start-line="54" selection-start-column="42" selection-end-line="54" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tickdata_from_tushare6-2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1225">
-          <caret line="53" column="36" lean-forward="false" selection-start-line="53" selection-start-column="36" selection-end-line="53" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/tickdata_from_tushare6-7.py" />
+    <entry file="file://$PROJECT_DIR$/tickdata_from_tushare6-8.py" />
+    <entry file="file://$PROJECT_DIR$/tickdata_from_tushare6-9.py" />
+    <entry file="file://$PROJECT_DIR$/tickdata_from_tushare6-5.py" />
+    <entry file="file://$PROJECT_DIR$/tickdata_from_tushare6-4.py" />
+    <entry file="file://$PROJECT_DIR$/tickdata_from_tushare6-3.py" />
+    <entry file="file://$PROJECT_DIR$/tickdata_from_tushare6-2.py" />
     <entry file="file://$PROJECT_DIR$/process_tushare.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="265">
@@ -550,104 +557,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/code_notin_hs300/notin_hs300_tickdata_tushare0-6.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="121">
-          <caret line="57" column="50" lean-forward="false" selection-start-line="57" selection-start-column="50" selection-end-line="57" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/code_notin_hs300/notin_hs300_tickdata_tushare0-5.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="60" column="34" lean-forward="true" selection-start-line="60" selection-start-column="34" selection-end-line="60" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/code_notin_hs300/notin_hs300_tickdata_tushare0-4.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="62" column="40" lean-forward="true" selection-start-line="62" selection-start-column="40" selection-end-line="62" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/code_notin_hs300/notin_hs300_tickdata_tushare0-3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="60" column="34" lean-forward="true" selection-start-line="60" selection-start-column="34" selection-end-line="60" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/code_notin_hs300/notin_hs300_tickdata_tushare0-2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="146">
-          <caret line="61" column="20" lean-forward="true" selection-start-line="61" selection-start-column="20" selection-end-line="61" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/code_notin_hs300/notin_hs300_tickdata_tushare0-1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="164">
-          <caret line="61" column="20" lean-forward="true" selection-start-line="61" selection-start-column="20" selection-end-line="61" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/code_notin_hs300/notin_hs300_tickdata_tushare0-8.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="61" column="20" lean-forward="true" selection-start-line="61" selection-start-column="20" selection-end-line="61" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/code_notin_hs300/notin_hs300_tickdata_tushare6-9.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="62" column="40" lean-forward="true" selection-start-line="62" selection-start-column="40" selection-end-line="62" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/code_notin_hs300/notin_hs300_tickdata_tushare6-8.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="55" column="31" lean-forward="true" selection-start-line="55" selection-start-column="31" selection-end-line="55" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/code_notin_hs300/notin_hs300_tickdata_tushare6-7.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="68" column="68" lean-forward="true" selection-start-line="68" selection-start-column="68" selection-end-line="68" selection-end-column="68" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/code_notin_hs300/notin_hs300_tickdata_tushare6-6.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="67" column="72" lean-forward="false" selection-start-line="67" selection-start-column="72" selection-end-line="67" selection-end-column="72" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/code_notin_hs300/notin_hs300_tickdata_tushare6-5.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="60" column="34" lean-forward="false" selection-start-line="60" selection-start-column="34" selection-end-line="60" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/code_notin_hs300/notin_hs300_tickdata_tushare6-4.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="60" column="34" lean-forward="false" selection-start-line="60" selection-start-column="34" selection-end-line="60" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/code_notin_hs300/notin_hs300_tickdata_tushare6-1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="64" column="38" lean-forward="false" selection-start-line="64" selection-start-column="38" selection-end-line="64" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/code_notin_hs300/notin_hs300_tickdata_tushare0-6.py" />
+    <entry file="file://$PROJECT_DIR$/code_notin_hs300/notin_hs300_tickdata_tushare0-5.py" />
+    <entry file="file://$PROJECT_DIR$/code_notin_hs300/notin_hs300_tickdata_tushare0-4.py" />
+    <entry file="file://$PROJECT_DIR$/code_notin_hs300/notin_hs300_tickdata_tushare0-3.py" />
+    <entry file="file://$PROJECT_DIR$/code_notin_hs300/notin_hs300_tickdata_tushare0-2.py" />
+    <entry file="file://$PROJECT_DIR$/code_notin_hs300/notin_hs300_tickdata_tushare0-1.py" />
+    <entry file="file://$PROJECT_DIR$/code_notin_hs300/notin_hs300_tickdata_tushare0-8.py" />
+    <entry file="file://$PROJECT_DIR$/code_notin_hs300/notin_hs300_tickdata_tushare6-9.py" />
+    <entry file="file://$PROJECT_DIR$/code_notin_hs300/notin_hs300_tickdata_tushare6-8.py" />
+    <entry file="file://$PROJECT_DIR$/code_notin_hs300/notin_hs300_tickdata_tushare6-7.py" />
+    <entry file="file://$PROJECT_DIR$/code_notin_hs300/notin_hs300_tickdata_tushare6-6.py" />
+    <entry file="file://$PROJECT_DIR$/code_notin_hs300/notin_hs300_tickdata_tushare6-5.py" />
+    <entry file="file://$PROJECT_DIR$/code_notin_hs300/notin_hs300_tickdata_tushare6-4.py" />
+    <entry file="file://$PROJECT_DIR$/code_notin_hs300/notin_hs300_tickdata_tushare6-1.py" />
     <entry file="file://$PROJECT_DIR$/code_notin_hs300/notin_hs300_tickdata_tushare6-0.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1475">
@@ -655,73 +578,22 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/code_notin_hs300/notin_hs300_tickdata_tushare0-7.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2200">
-          <caret line="93" column="53" lean-forward="false" selection-start-line="93" selection-start-column="53" selection-end-line="93" selection-end-column="53" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/code_notin_hs300/notin_hs300_tickdata_tushare0-9.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tickdata_from_tushare6-0.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2050">
-          <caret line="91" column="31" lean-forward="false" selection-start-line="91" selection-start-column="31" selection-end-line="91" selection-end-column="31" />
-          <folding>
-            <element signature="e#1932#1943#0" expanded="false" />
-            <element signature="e#2546#2560#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/code_notin_hs300/notin_hs300_tickdata_tushare6-3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1525">
-          <caret line="64" column="38" lean-forward="false" selection-start-line="64" selection-start-column="38" selection-end-line="64" selection-end-column="38" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/code_notin_hs300/notin_hs300_tickdata_tushare6-2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1650">
-          <caret line="69" column="34" lean-forward="false" selection-start-line="69" selection-start-column="34" selection-end-line="69" selection-end-column="34" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/code_notin_hs300/notin_hs300_tickdata_tushare0-7.py" />
+    <entry file="file://$PROJECT_DIR$/code_notin_hs300/notin_hs300_tickdata_tushare0-9.py" />
+    <entry file="file://$PROJECT_DIR$/code_notin_hs300/notin_hs300_tickdata_tushare6-3.py" />
+    <entry file="file://$PROJECT_DIR$/code_notin_hs300/notin_hs300_tickdata_tushare6-2.py" />
     <entry file="file://$PROJECT_DIR$/code_notin_hs300/notin_hs300_tickdata_tushare0-0.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="375">
           <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-          <folding>
-            <element signature="e#2205#2216#0" expanded="false" />
-            <element signature="e#2819#2833#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tickdata_from_tushare6-1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1050">
-          <caret line="46" column="25" lean-forward="false" selection-start-line="46" selection-start-column="16" selection-end-line="46" selection-end-column="27" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/tickdata_from_tushare6-1.py" />
     <entry file="file://$PROJECT_DIR$/code_notin_hs300/file_size.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
+        <state relative-caret-position="100">
           <caret line="4" column="27" lean-forward="false" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -729,11 +601,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2250">
           <caret line="95" column="26" lean-forward="false" selection-start-line="95" selection-start-column="26" selection-end-line="95" selection-end-column="26" />
-          <folding>
-            <element signature="e#42#57#0" expanded="true" />
-            <element signature="e#2190#2201#0" expanded="false" />
-            <element signature="e#2804#2818#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -741,15 +608,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CrawlerScript/NetEaseFinance/crawler_notice_from_NetEaseFinance.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="101" column="15" lean-forward="true" selection-start-line="101" selection-start-column="15" selection-end-line="101" selection-end-column="15" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -757,47 +615,156 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="218">
           <caret line="109" column="34" lean-forward="false" selection-start-line="109" selection-start-column="34" selection-end-line="109" selection-end-column="34" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CrawlerScript/crawler_news.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="38" column="18" lean-forward="true" selection-start-line="38" selection-start-column="18" selection-end-line="38" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CrawlerScript/crawler_research_report.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="141" column="0" lean-forward="true" selection-start-line="141" selection-start-column="0" selection-end-line="141" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CrawlerScript/crawler_config.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CrawlerScript/parse_pdf.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="381">
-          <caret line="48" column="26" lean-forward="true" selection-start-line="48" selection-start-column="26" selection-end-line="48" selection-end-column="26" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
-          <caret line="3" column="22" lean-forward="true" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
+          <caret line="3" column="22" lean-forward="false" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jqdata_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="14" column="8" lean-forward="false" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NetEaseFinance/download_financial_statement.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="575">
+          <caret line="24" column="26" lean-forward="false" selection-start-line="24" selection-start-column="26" selection-end-line="24" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CrawlerScript/parse_pdf.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="975">
+          <caret line="43" column="54" lean-forward="false" selection-start-line="43" selection-start-column="54" selection-end-line="43" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/update_jqdata_combine.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="800">
+          <caret line="36" column="48" lean-forward="false" selection-start-line="36" selection-start-column="48" selection-end-line="36" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tickdata_from_tushare6-0.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1925">
+          <caret line="81" column="51" lean-forward="false" selection-start-line="81" selection-start-column="51" selection-end-line="81" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CrawlerScript/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="31" lean-forward="false" selection-start-line="5" selection-start-column="31" selection-end-line="5" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CrawlerScript/crawler_title_date_from_10jqka.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="15" lean-forward="false" selection-start-line="5" selection-start-column="15" selection-end-line="5" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CrawlerScript/NetEaseFinance/crawler_notice_from_NetEaseFinance.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1400">
+          <caret line="66" column="45" lean-forward="false" selection-start-line="66" selection-start-column="45" selection-end-line="66" selection-end-column="45" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CrawlerScript/crawler_research_report.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1050">
+          <caret line="51" column="41" lean-forward="false" selection-start-line="51" selection-start-column="32" selection-end-line="51" selection-end-column="45" />
+          <folding>
+            <element signature="e#23#36#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CrawlerScript/crawler_titledate_from_eastmoney.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2650">
+          <caret line="118" column="44" lean-forward="false" selection-start-line="118" selection-start-column="44" selection-end-line="118" selection-end-column="44" />
+          <folding>
+            <element signature="e#23#52#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CrawlerScript/crawler_news.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1975">
+          <caret line="89" column="18" lean-forward="false" selection-start-line="89" selection-start-column="0" selection-end-line="94" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CrawlerScript/eastmoney/Stocks_research_report.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1575">
+          <caret line="77" column="0" lean-forward="false" selection-start-line="77" selection-start-column="0" selection-end-line="77" selection-end-column="0" />
+          <folding>
+            <element signature="e#23#36#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CrawlerScript/eastmoney/notice.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2350">
+          <caret line="108" column="15" lean-forward="false" selection-start-line="108" selection-start-column="15" selection-end-line="108" selection-end-column="15" />
+          <folding>
+            <element signature="e#24#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CrawlerScript/eastmoney/industry_research_report.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2375">
+          <caret line="109" column="11" lean-forward="false" selection-start-line="109" selection-start-column="11" selection-end-line="109" selection-end-column="11" />
+          <folding>
+            <element signature="e#24#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CrawlerScript/crawler_config.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="925">
+          <caret line="40" column="19" lean-forward="false" selection-start-line="40" selection-start-column="19" selection-end-line="40" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CrawlerScript/eastmoney/company_news.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3925">
+          <caret line="171" column="44" lean-forward="false" selection-start-line="169" selection-start-column="4" selection-end-line="173" selection-end-column="28" />
+          <folding>
+            <element signature="e#24#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CrawlerScript/eastmoney/industry_news.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="284">
+          <caret line="146" column="40" lean-forward="true" selection-start-line="146" selection-start-column="40" selection-end-line="146" selection-end-column="40" />
+          <folding>
+            <element signature="e#23#36#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

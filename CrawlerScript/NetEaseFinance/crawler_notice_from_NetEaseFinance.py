@@ -103,7 +103,7 @@ def save_notice_text():
     code_list = crawler_config.code_list
     for code in code_list:
         print( "-----------------------------------" )
-        print("正在下载股票：{}，相关公告".format(code))
+        print("正在保存股票：{}，相关公告".format(code))
         # adj_code = processing_code(code)
         adj_code = code
         file_dir_path = os.path.join( crawler_config.notice_file_dir, adj_code )
