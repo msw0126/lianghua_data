@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="65eda8b5-38ba-4a89-8f4a-dba4910cd57d" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="65eda8b5-38ba-4a89-8f4a-dba4910cd57d" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -287,8 +285,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="207" />
-    <option name="y" value="41" />
+    <option name="x" value="431" />
+    <option name="y" value="172" />
     <option name="width" value="1397" />
     <option name="height" value="851" />
   </component>
@@ -321,7 +319,7 @@
             <path>
               <item name="lianghua_data" type="b2602c69:ProjectViewProjectNode" />
               <item name="lianghua_data" type="462c0819:PsiDirectoryNode" />
-              <item name="foreign_news" type="462c0819:PsiDirectoryNode" />
+              <item name="code_notin_hs300" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -479,7 +477,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="207" y="41" width="1397" height="851" extended-state="0" />
+    <frame x="431" y="172" width="1397" height="851" extended-state="0" />
     <layout>
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2580404" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
