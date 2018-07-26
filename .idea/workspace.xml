@@ -321,6 +321,16 @@
               <item name="lianghua_data" type="462c0819:PsiDirectoryNode" />
               <item name="code_notin_hs300" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="lianghua_data" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lianghua_data" type="462c0819:PsiDirectoryNode" />
+              <item name="foreign_news" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lianghua_data" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lianghua_data" type="462c0819:PsiDirectoryNode" />
+              <item name="NetEaseFinance" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
