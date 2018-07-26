@@ -158,7 +158,7 @@ if __name__ == '__main__':
             # print(url)
             # print(news_url)
             # 保存新闻文本
-            # save_report_text( news_url, news_title, file_dir_path, news_date )
+            save_report_text( news_url, news_title, file_dir_path, news_date )
             # 保存研报的标题、日期
             news.append( code )
             news.append( news_date_lst[news_date_n] )

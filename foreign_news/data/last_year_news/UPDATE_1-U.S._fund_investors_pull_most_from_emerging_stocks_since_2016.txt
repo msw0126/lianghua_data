@@ -1,0 +1,62 @@
+May 31, 2018 / 11:57 PM / 2 months ago
+# UPDATE 1-U.S. fund investors pull most from emerging stocks since 2016
+    
+     (Adds quotes, details on funds, table, byline)
+        By Trevor Hunnicutt
+        NEW YORK, May 31 (Reuters) - U.S. fund investors are
+    starting to show doubt about emerging markets, pulling the most
+    cash in more than 18 months from stocks in those regions,
+    according to Lipper data on Thursday.
+        Nearly $1.2 billion left emerging market stock mutual funds
+    and exchange-traded funds during the seven days through May 30,
+    according to the research service. That is the largest
+    withdrawal since November 2016.
+        Emerging markets face a host of challenges, including the
+    rising U.S. dollar that makes debt denominated in the currency
+    more expensive to repay, rising rates due to Federal Reserve
+    policy in the United States, higher oil prices and the potential
+    for a trade war.
+        Canada and Mexico retaliated against the United States'
+    decision on Thursday to impose tariffs on steel and aluminum
+    imports and the European Union had its own reprisals ready to
+    go.
+        The Trump administration has also demanded that China make
+    concessions for allegedly stealing U.S. technology by imposing
+    tariffs on $50 billion of imports from that country. U.S.
+    Commerce Secretary Wilbur Ross heads to Beijing on Friday where
+    he will attempt to get deals to export more U.S. goods.
+        "The challenges for emerging markets have been multiplying,"
+    an analyst for the Institute of International Finance wrote in a
+    note on Thursday that highlighted a possible risk of "contagion"
+    spreading from countries already facing currency devaluations,
+    such as Turkey and Argentina, to other regions that have gulped
+    down large foreign investments in recent years.
+        An MSCI index that tracks 25 emerging market
+    currencies against the U.S. dollar is more than 3 percent off
+    record highs earlier this year. A comparable index that tracks
+    the stocks in those markets is down more than 11
+    percent from its highs this year in January.
+        Fed Governor Lael Brainard said in a speech on Thursday that
+    emerging markets may face "more challenging" conditions.
+    
+        "An environment with a strengthening dollar, rising energy
+    prices, and the possibility of rising rates raises the risks of
+    capital flow reversals in some emerging markets that have seen
+    increased borrowing from abroad," she said.
+        "Although stresses have been contained to a few vulnerable
+    countries so far, the risk of a broader pullback bears
+    watching."
+        The following is a breakdown of the flows for the week,
+    including mutual funds and ETFs:
+     Sector                    Flow Chg  % Assets  Assets     Count
+                               ($blns)             ($blns)    
+     All Equity Funds          4.874     0.07      7,432.745  12,296
+     Domestic Equities         5.165     0.10      5,173.028  8,755
+     Non-Domestic Equities     -0.291    -0.01     2,259.717  3,541
+     All Taxable Bond Funds    0.158     0.01      2,781.739  6,064
+     All Money Market Funds    9.363     0.35      2,703.007  1,043
+     All Municipal Bond Funds  0.077     0.02      429.260    1,480
+     
+     (Reporting by Trevor Hunnicutt
+    Editing by Cynthia Osterman and Chris Reese)
+      

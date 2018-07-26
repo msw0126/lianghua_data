@@ -1,0 +1,45 @@
+May 30, 2018 / 6:05 PM / 2 months ago
+# TABLE-Inflows to equity funds slide over 50 pct vs prior week -ICI
+    
+        By David Randall
+        NEW YORK, May 30 (Reuters) - U.S. investors put
+    approximately $4 billion into equity mutual funds and
+    exchange-traded funds in the week ending May 23, a decline of
+    more than 50 percent from the previous week, according to data
+    released on Wednesday by the Investment Company Institute (ICI).
+        The declines were widespread, with contributions to U.S.
+    stock funds dropping by 44 percent, while inflows into world
+    equity funds slid by 72 percent. 
+        Inflows to bond funds were largely steady, with $5.2 billion
+    in new investor contributions, up about $100 million from the
+    week before.
+        The declines in equity fund inflows came in a week when the
+    Dow Jones Industrial Average hit a two-month high and the
+    Russell 2000 index of small-cap stocks hit a record high for
+    four straight sessions after Treasury Secretary Steven Mnuchin
+    said that the United States and China had put the prospect of a
+    trade war "on hold." 
+        For the year to date, the Dow  is down about 0.5
+    percent, while the MSCI World Stock index is
+    down 0.2 percent.
+        While investor demand for U.S. equities has waned,
+    corporations are making up the difference. U.S. companies
+    announced $183.4 billion in share buybacks during the most
+    recent earnings season, according to TrimTabs Investment
+    Research, the second-most on record. 
+        The following table shows estimated ICI flows for mutual
+    funds and ETFs (all figures in millions of dollars):
+        
+                       5/23      5/16      5/9       5/2     4/25
+     Equity           4,007     8,394    2,040    -2,457     -879
+        Domestic      3,365     6,066    1,302    -2,992   -3,777
+        World           642     2,329      738       535    2,898
+     Hybrid            -807      -866     -788      -887     -633
+     Bond             5,206     5,177    2,735     3,477    2,264
+        Taxable       5,021     4,727    2,383     3,640    2,360
+        Municipal       185       450      352      -163      -96
+     Commodity          -73      -281      242       -82      508
+     Total            8,334    12,425    4,229        51    1,259
+     
+     (Reporting by David Randall, editing by G Crosse)
+      

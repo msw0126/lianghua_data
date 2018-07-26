@@ -2,6 +2,7 @@
 import random
 import urllib
 import urllib.request as urllib2
+import pandas as pd
 
 import datetime
 import html2text
@@ -100,32 +101,55 @@ def save_file(file_path, content):
 
 def save_notice_text():
     # 需要爬取得股票列表
-    code_list = crawler_config.code_list
+    code_list = crawler_config.title_date_code_list
+    notice_list = []
+    notice = []
     for code in code_list:
         print( "-----------------------------------" )
         print("正在保存股票：{}，相关公告".format(code))
         # adj_code = processing_code(code)
         adj_code = code
-        file_dir_path = os.path.join( crawler_config.notice_file_dir, adj_code )
+        file_dir_path = os.path.join( crawler_config.eastmoney_notice_dir, adj_code )
         if not os.path.exists( file_dir_path ):
             os.makedirs( file_dir_path )
         stock_url = "http://quotes.money.163.com/f10/gsgg_{}.html#01e02".format(adj_code)
+        print(stock_url)
+        # 得到公告发布的时间
+        stock_url_html = get_html(stock_url)
+        stock_url_html_soup = BeautifulSoup(stock_url_html, "html.parser")
+        title_date_text = stock_url_html_soup.findAll('td', {'class': 'align_c'})
+        notice_date_list = []
+        for x in title_date_text:
+            if len( notice_date_list ) > 9:
+                break
+            notice_date_list.append(x.get_text())
         notice_title_list, notice_url_list = get_url_list(stock_url)
-        for notice_title, notice_url in zip(notice_title_list, notice_url_list):
+        for notice_title, notice_url, notice_date in zip(notice_title_list, notice_url_list, notice_date_list):
+            notice.append(code)
+            notice.append(notice_date)
+            notice.append(notice_title)
+            notice.append("公司公告")
+            notice_list.append(notice)
+            notice = []
             notice_url = "http://quotes.money.163.com" + notice_url
-            # print(adj_code)
-            # print(notice_title)
-            # print(notice_url)
             notice_txt_path = os.path.join(file_dir_path, str(notice_title).strip().replace("/", "_") + ".txt")
             try:
                 notice_html_data = get_html( notice_url )
-                # print(notice_html_data)
                 c = ClassifyTableTxt()
-                notice_text = c.html_into_text( notice_html_data ).replace("关闭窗口", "")
+                notice_text = c.html_into_text( notice_html_data ).replace("关闭窗口", "").strip()
+                # print("========================================================================")
+                # print(notice_text)
+                if os.path.exists(notice_txt_path):
+                    notice_txt_path = os.path.join(file_dir_path, str(notice_title).strip().replace("/", "_") + "--文件名重复--" + ".txt")
                 save_file(notice_txt_path, notice_text)
             except Exception as e:
                 pass
             continue
+    print( notice_list )
+    columns = ['code', 'date', 'title', 'type']
+    df = pd.DataFrame( columns=columns, data=notice_list )
+    df.to_csv( os.path.join( crawler_config.eastmoney_notice_dir, "title_date.csv" ),
+               index=False )
 
 
 if __name__ == '__main__':

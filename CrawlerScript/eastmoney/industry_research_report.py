@@ -143,7 +143,7 @@ if __name__ == '__main__':
             title = x.split(",")[9].replace("&quot;", "\"").replace("&sbquo;", "，")
             print(date, infoCode, organization, grade, title)
             #保存研报文本
-            # save_report_text(url_date, infoCode, title, file_dir_path)
+            save_report_text(url_date, infoCode, title, file_dir_path)
             # 保存研报的标题、日期
             industry_report.append( code )
             industry_report.append( organization )

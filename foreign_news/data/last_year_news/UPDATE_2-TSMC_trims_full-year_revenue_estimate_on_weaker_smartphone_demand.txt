@@ -1,0 +1,21 @@
+April 19, 2018 / 7:35 AM / 3 months ago
+# UPDATE 2-TSMC trims full-year revenue estimate on weaker smartphone demand
+* Cuts full-year revenue estimate to 10 pct from 10-15 pct 
+* Sees minimal impact from U.S. sanctions on China's ZTE 
+* Revises growth estimate for global semiconductor sector (Adds executive comments, context) 
+By Clare Jim 
+TAIPEI, April 19 (Reuters) - Taiwan Semiconductor Manufacturing Co Ltd, the world's largest contract chipmaker, revised its full-year revenue target to the low end of its earlier forecast due to softer demand for smartphones and uncertainty in cryptocurrency mining market. 
+Revenue for 2018 is likely to grow 10 percent rather than the earlier forecast of 10-15 percent, Co-Chief Executive C.C. Wei told an earnings briefing. 
+"The China market started to pick up in smartphones, but TSMC's smartphone segment, which is very high end, was softer," Wei said. 
+The comments come after industry data showed worldwide smartphone shipment volumes shrank for the first time last year, with high-end brands coming under increasing competition from the likes of low-cost Chinese vendor Xiaomi. 
+TSMC said it expects growth this year of 5 percent for the global semiconductor industry, weaker than an earlier forecast of 5-7 percent, and 8 percent for contract chipmakers, rather than its previous forecast of 9-10 percent. 
+It also said it expects high-performance computing chips to make up 40 percent of the company's growth over the next five years, from an initial estimate of 25 percent. The chips are used in such quick-growing fields as artificial intelligence, cryptocurrency mining and blockchain. 
+For January-March, the supplier to Apple Inc, Qualcomm Inc and Nvidia Corp reported a 2.5 percent rise in net profit at T$89.8 billion ($3.1 billion) - in line with market estimates and a record for the first quarter. 
+For the second quarter, TSMC sees revenue in a range of $7.8 billion to $7.9 billion, 10.5 to 12 percent higher than a year earlier. 
+Analysts said second-quarter risks for TSMC include an intensifying trade war between the United States and China, where many of its biggest clients are located. 
+In addition, demand for cryptocurrency-related chips could slow due to increased regulatory scrutiny of the sector as well as price volatility that has seen miners switch to lower-powered chips. 
+TSMC President Mark Liu said he expected minimal impact from a U.S. ban on American companies selling parts to China's ZTE Corp, a maker of telecommunications equipment and smartphones reprimanded for failing to fully comply with U.S. regulators. 
+"We think the effect is very, very minimal. Currently we are studying the impact on ZTE suppliers but at first glance, we have a very wide customer base, so ZTE, depending on where its suppliers are from ... we being everyone's foundry, we have a very wide spread ... the impact is minimal," Liu said. 
+The firm also said it would add $1 billion to its capital spending target this year, bringing the range to $11.5 billion to $12 billion. 
+Prior to the earnings announcement, shares in TSMC closed up 2.7 percent versus a 1 percent rise in the wider market. The stock has risen around 6 percent so far this year. ($1 = 29.3260 Taiwan dollars) 
+Reporting by Clare Jim; Editing by Anne Marie Roantree and Christopher Cushing

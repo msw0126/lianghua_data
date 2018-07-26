@@ -1,0 +1,97 @@
+March 26, 2018 / 7:40 PM / 4 months ago
+# TREASURIES-U.S. bond yields rise on record supply, stock gains
+    
+        * Wall Street rebound pares safe-haven bond holdings
+        * U.S. yield curve flattens after lukewarm 2-year note sale
+        * U.S. to sell $35 bln 5-year notes, $24 bln 1-year bills
+    Tuesday
+    
+     (Updates market action, adds quote, table)
+        By Richard Leong
+        NEW YORK, March 26 (Reuters) - U.S. Treasury yields rose and
+    the yield curve flattened on Monday following a lackluster
+    two-year note auction, in a test of investor appetite following
+    last week's strong run spurred by nervousness about a global
+    trade war.
+        The $30 billion two-year note supply, together with $51
+    billion in three-month bills and $45 billion in six-month bills,
+    were part of this week's record high $294 billion of debt.
+        The Treasury Department has ratcheted up its debt issuance
+    to fund higher federal spending tied to a two-year budget deal
+    that was approved in February, and to make up for an expected
+    drop in revenues due to the massive tax overhaul enacted in
+    December.
+        The bond market was also under pressure on a recovery in
+    Wall Street stocks on reduced worries about a trade war.
+    
+        "People are concerned with supply," said Thomas Roth, head
+    of U.S. Treasury trading at MUFG Securities America in New York.
+    "People are leaning on the short side with bonds, but you still
+    have trade concerns."
+        The yield on 10-year Treasury notes rose 2.4
+    basis points to 2.850 percent. It hit a six-week low of 2.792
+    percent on Friday.
+        The modest selling in Treasuries on Monday was offset by
+    lingering worries about trade tension between United States and
+    its trading partners, although White House officials have aimed
+    to soothe that anxiety, traders and analysts said. 
+        On Friday, China urged the United States to "pull back from
+    the brink" after Trump said he planned tariffs on up to $60
+    billion in Chinese goods, and the Chinese commerce ministry
+    warned that the country "doesn't hope to be in a trade war, but
+    is not afraid of engaging in one."
+        Then White House trade adviser Peter Navarro on Monday told
+    CNBC television the United States was in talks with China in an
+    effort to address its trade practices.
+        Easing worries about a trade war propelled U.S. stock prices
+    higher and reduced the safe-haven appeal of Treasuries. They
+    also reduced bets the Federal Reserve might slow its pace of
+    interest rate increases if equities were to deteriorate further,
+    analysts said.
+        This view curbed bidding at the latest two-year note auction
+    and prompted fed traders to favor longer-dated Treasuries,
+    flattening the yield curve. 
+        The yield gap on five-year and 30-year Treasuries
+     flattened 2.1 basis points to 44.10 basis points.
+        On Tuesday, the Treasury will sell $35 billion in five-year
+    notes and $24 billion in one-year bills
+    .
+        
+      Monday, March 26 at 1528 EDT (1928 GMT):
+                                   Price                   
+     US T BONDS JUN8               144-18/32    -0-5/32    
+     10YR TNotes JUN8              120-104/256  -0-52/256  
+                                   Price        Current    Net
+                                                Yield      Change
+                                                (pct)      (bps)
+     Three-month bills             1.715        1.746      0.018
+     Six-month bills               1.8775       1.9213     0.010
+     Two-year note                 99-240/256   2.2829     0.021
+     Three-year note               99-208/256   2.4407     0.031
+     Five-year note                99-236/256   2.6418     0.034
+     Seven-year note               99-216/256   2.7748     0.026
+     10-year note                  99-40/256    2.8483     0.022
+     30-year bond                  98-116/256   3.0794     0.005
+                                                           
+       DOLLAR SWAP SPREADS                                 
+                                   Last (bps)   Net        
+                                                Change     
+                                                (bps)      
+     U.S. 2-year dollar swap        33.00         0.75     
+     spread                                                
+     U.S. 3-year dollar swap        27.00         0.00     
+     spread                                                
+     U.S. 5-year dollar swap        14.75         0.00     
+     spread                                                
+     U.S. 10-year dollar swap        3.25         0.50     
+     spread                                                
+     U.S. 30-year dollar swap      -15.25         0.50     
+     spread                                                
+     
+        
+        
+        
+    
+     (Reporting by Richard Leong; Editing by Andrew Hay and Tom
+    Brown)
+      

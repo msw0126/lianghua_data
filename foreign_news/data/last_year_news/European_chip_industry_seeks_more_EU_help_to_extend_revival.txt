@@ -1,0 +1,33 @@
+June 27, 2018 / 1:25 PM / 22 days ago
+# European chip industry seeks more EU help to extend revival
+* Industry seeks doubling of research programme - report 
+* Calls for rollover of support for capex projects 
+* 'Made in China 2025', 'America First' frictions add urgency 
+* Artificial intelligence, supply-chain security seen critical 
+By Douglas Busvine 
+FRANKFURT, June 27 (Reuters) - Europe's semiconductor industry is requesting more help from the European Union as it seeks to build on a tentative revival, embrace technologies such as artificial intelligence and ride out trade wars that threaten global supply chains. 
+A 20-page report submitted to Mariya Gabriel, the EU digital affairs commissioner, requests that a research and development programme launched in 2014 be doubled to 10 billion euros ($11.7 billion) in the bloc's next seven-year budget period. 
+The report, reviewed by Reuters, also calls for a programme allowing state support for investment projects of strategic importance to be extended beyond 2020. 
+Industry lobbying typically intensifies as haggling over EU budget funds reaches its decisive stage. Yet concerns over Beijing's backing for its 'Made in China 2025' plan, and President Donald Trump's 'America First' trade policies, have added urgency to the debate. 
+The European Commission did not immediately respond to a request for comment. Companies that contributed to the report were only willing to speak to Reuters about it on condition of anonymity. 
+### INDUSTRY REVIVAL 
+European semiconductor companies are niche players relative to global leaders Samsung Electronics and Intel , with market shares of 14.2 percent and 14 percent respectively according to research firm Gartner. 
+However, after years of decline, Europe's $280 billion electronics industry is finally recovering, with Germany's Infineon last month announcing it would build a 1.6 billion euro plant in Villach, Austria - its second capable of making chips on 300 mm wafers. 
+That investment, say company sources, was driven purely by the need to add capacity to meet demand for chips used in industrial applications such as power management - and not by the desire to attract subsidies. 
+Yet Infineon has also acted as coordinator of several public-private research partnerships under the Electronic Components and Systems for European Leadership Joint Undertaking - or ECSEL www.ecsel.eu for short. 
+It is this programme that the 11 companies and research bodies that signed the report, entitled 'Rebooting Electronics Value Chains in Europe', would like to see doubled in the next EU budget term that starts in 2021. 
+"The trick has been to force companies, research institutes and small- and medium-size enterprises to work across European borders," said one industry source, who described the instrument as very effective in driving collaboration and innovation. 
+The second programme that foresees state support for Important Projects of Common European Interest (IPCEI here) should be rolled over, the report recommends. 
+Industry sources said IPCEI was a complex process led by governments and the EU bureaucracy that still needs work to reach fruition and, once up and running, would focus on capex to help develop new products. 
+Other recommendations in the report, which responds to a request for inputs from Gabriel earlier this year, include boosting Europe's self-reliance in semiconductors; creating a skills task force; and unifying research efforts. 
+Whether the proposals will survive EU budget negotiations was totally unclear, said one source: "Nobody knows what will come in the end - this is a shopping list." 
+### VALUING THE VALUE CHAIN 
+Despite the demise of mobile phone giant Nokia as a flagship consumer brand, Europe's hardware industry has managed to defend its position in fields such as the Internet of Things and electric vehicles. 
+Growth in the use of artificial intelligence to steer manufacturing processes or self-driving cars is a key priority identified by the report - especially so-called 'edge AI' that doesn't rely on communicating with a central server. 
+"AI is the new opportunity as well as the new challenge in Europe," the report writes. "It calls for deep, sustained partnerships beyond the current levels of cooperation up and down the value chains. 
+"The challenges are simply too big, the risks or failure too high and the costs prohibitively large for any public or private entity to address it alone." 
+Mounting trade frictions and concentration in the global semiconductor industry through large-scale mergers and acquisitions also mean Europe must increase its self-reliance. 
+"Chips as a commodity can easily become part of a trade war. That is beginning to sink in across Europe," said one of the report's co-authors. 
+"Whether it's automotive, aerospace, pharmaceuticals or life sciences, they need to be available, affordable and energy efficient. And entities along the supply chain need to work more closely than they are now." 
+Soitec, STMicroelectronics, X-FAB Silicon Foundries, Robert Bosch, GlobalFoundries, United Monolithic Semiconductors, Infineon and ASML contributed to the report. 
+Also involved were researchers from the Fraunhofer Microelectronics Group, CEA-Leti and imec. ($1 = 0.8585 euros) (Reporting by Douglas Busvine Editing by Keith Weir)

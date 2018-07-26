@@ -1,0 +1,13 @@
+July 9, 2018 / 4:15 PM / 10 days ago
+# Siemens inks deal with Alibaba to launch digital products in China
+ZURICH, July 9 (Reuters) - Siemens has agreed with online giant Alibaba to use the Chinese company's cloud infrastructure to roll out its digital operating system MindSphere, the German engineering group said on Monday. 
+The deal was among a raft of Sino-German commercial accords worth some 20 billion euros ($23.51 billion) signed on Monday, with the countries' leaders reiterating commitments to a multilateral global trade order despite a looming trade war with the United States. 
+Siemens and Alibaba Cloud, the cloud computing arm of Alibaba, have signed a memorandum of understanding to launch so-called Internet of Things (IoT) products that connect hundreds of different manufacturing devices in China. 
+The deal will help upgrade China's industry, Siemens said in a statement. Until now its digital products have been offered only through Amazon's Web Services and Microsoft's Azure online platforms. 
+The German company has been competing with other companies including Switzerland's ABB in the fast-growing digital industries segment to offset weaknesses in other parts of its business like large gas turbines. 
+It hopes the tie up with Alibaba will help it make further inroads into China, already Siemens's third-largest market. 
+"This cooperation is a landmark deal for bringing Industry 4.0-solutions to China as the world's powerhouse of manufacturing," said Siemens Chief Executive Joe Kaeser. 
+Siemens also flagged plans to work with China's State Power Investment Corporation on heavy-duty gas turbines. 
+MindSphere is Siemens's cloud-based, open IoT operating system that connects products, factories, systems and machines. By gathering information from an array of sensors installed in production lines it aims to increase efficiency and reduce down time for machinery. 
+It is part of Siemens's booming Digital Factory division, which increased sales by 13 percent and profit by 40 percent in its latest quarter, supported by substantial growth in China. 
+Under the agreement, both companies will begin collaborating immediately and intend to make MindSphere on Alibaba Cloud available in 2019. (Reporting by John Revill; Editing by Michael Shields)

@@ -150,7 +150,7 @@ if __name__ == '__main__':
             industry_news_time = industry_news_soup.findAll('div', {'class': 'time'})
             industry_news_date = industry_news_time[0].get_text()
             # 保存文本
-            # save_report_text( industry_news_url, industry_news_title, file_dir_path, industry_news_date)
+            save_report_text( industry_news_url, industry_news_title, file_dir_path, industry_news_date)
             new.append(code)
             new.append(industry_news_date)
             new.append( industry_news_title )

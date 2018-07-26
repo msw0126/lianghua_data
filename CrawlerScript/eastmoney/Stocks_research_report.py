@@ -136,7 +136,7 @@ if __name__ == '__main__':
             date = str(time).split("T")[0]
             print(date)
             #保存研报文本
-            # save_report_text(url_date, infoCode, title, file_dir_path)
+            save_report_text(url_date, infoCode, title, file_dir_path)
             #保存研报的标题、日期
             stocks_report.append(code)
             stocks_report.append(insName)
